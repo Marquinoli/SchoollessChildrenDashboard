@@ -1,0 +1,2041 @@
+﻿Gender,Quintile,Residence,Total_Quintile,Total_Gender,Total_Residence,Countries_and_areas
+Male,Poorest_Wealth_quintile,Urban_Residence,42,28,19,Afghanistan
+Male,Poorest_Wealth_quintile,Rural_Residence,42,28,42,Afghanistan
+Female,Poorest_Wealth_quintile,Urban_Residence,42,47,19,Afghanistan
+Female,Poorest_Wealth_quintile,Rural_Residence,42,47,42,Afghanistan
+Male,Second_Wealth_quintile,Urban_Residence,47,28,19,Afghanistan
+Male,Second_Wealth_quintile,Rural_Residence,47,28,42,Afghanistan
+Female,Second_Wealth_quintile,Urban_Residence,47,47,19,Afghanistan
+Female,Second_Wealth_quintile,Rural_Residence,47,47,42,Afghanistan
+Male,Middle_Wealth_quintile,Urban_Residence,46,28,19,Afghanistan
+Male,Middle_Wealth_quintile,Rural_Residence,46,28,42,Afghanistan
+Female,Middle_Wealth_quintile,Urban_Residence,46,47,19,Afghanistan
+Female,Middle_Wealth_quintile,Rural_Residence,46,47,42,Afghanistan
+Male,Fourth_Wealth_quintile,Urban_Residence,32,28,19,Afghanistan
+Male,Fourth_Wealth_quintile,Rural_Residence,32,28,42,Afghanistan
+Female,Fourth_Wealth_quintile,Urban_Residence,32,47,19,Afghanistan
+Female,Fourth_Wealth_quintile,Rural_Residence,32,47,42,Afghanistan
+Male,Richest_Wealth_quintile,Urban_Residence,16,28,19,Afghanistan
+Male,Richest_Wealth_quintile,Rural_Residence,16,28,42,Afghanistan
+Female,Richest_Wealth_quintile,Urban_Residence,16,47,19,Afghanistan
+Female,Richest_Wealth_quintile,Rural_Residence,16,47,42,Afghanistan
+Male,Poorest_Wealth_quintile,Urban_Residence,4,3,1,Albania
+Male,Poorest_Wealth_quintile,Rural_Residence,4,3,4,Albania
+Female,Poorest_Wealth_quintile,Urban_Residence,4,2,1,Albania
+Female,Poorest_Wealth_quintile,Rural_Residence,4,2,4,Albania
+Male,Second_Wealth_quintile,Urban_Residence,3,3,1,Albania
+Male,Second_Wealth_quintile,Rural_Residence,3,3,4,Albania
+Female,Second_Wealth_quintile,Urban_Residence,3,2,1,Albania
+Female,Second_Wealth_quintile,Rural_Residence,3,2,4,Albania
+Male,Middle_Wealth_quintile,Urban_Residence,2,3,1,Albania
+Male,Middle_Wealth_quintile,Rural_Residence,2,3,4,Albania
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,1,Albania
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,4,Albania
+Male,Fourth_Wealth_quintile,Urban_Residence,2,3,1,Albania
+Male,Fourth_Wealth_quintile,Rural_Residence,2,3,4,Albania
+Female,Fourth_Wealth_quintile,Urban_Residence,2,2,1,Albania
+Female,Fourth_Wealth_quintile,Rural_Residence,2,2,4,Albania
+Male,Richest_Wealth_quintile,Urban_Residence,1,3,1,Albania
+Male,Richest_Wealth_quintile,Rural_Residence,1,3,4,Albania
+Female,Richest_Wealth_quintile,Urban_Residence,1,2,1,Albania
+Female,Richest_Wealth_quintile,Rural_Residence,1,2,4,Albania
+Male,Poorest_Wealth_quintile,Urban_Residence,3,2,2,Algeria
+Male,Poorest_Wealth_quintile,Rural_Residence,3,2,2,Algeria
+Female,Poorest_Wealth_quintile,Urban_Residence,3,2,2,Algeria
+Female,Poorest_Wealth_quintile,Rural_Residence,3,2,2,Algeria
+Male,Second_Wealth_quintile,Urban_Residence,2,2,2,Algeria
+Male,Second_Wealth_quintile,Rural_Residence,2,2,2,Algeria
+Female,Second_Wealth_quintile,Urban_Residence,2,2,2,Algeria
+Female,Second_Wealth_quintile,Rural_Residence,2,2,2,Algeria
+Male,Middle_Wealth_quintile,Urban_Residence,2,2,2,Algeria
+Male,Middle_Wealth_quintile,Rural_Residence,2,2,2,Algeria
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,2,Algeria
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,2,Algeria
+Male,Fourth_Wealth_quintile,Urban_Residence,2,2,2,Algeria
+Male,Fourth_Wealth_quintile,Rural_Residence,2,2,2,Algeria
+Female,Fourth_Wealth_quintile,Urban_Residence,2,2,2,Algeria
+Female,Fourth_Wealth_quintile,Rural_Residence,2,2,2,Algeria
+Male,Richest_Wealth_quintile,Urban_Residence,1,2,2,Algeria
+Male,Richest_Wealth_quintile,Rural_Residence,1,2,2,Algeria
+Female,Richest_Wealth_quintile,Urban_Residence,1,2,2,Algeria
+Female,Richest_Wealth_quintile,Rural_Residence,1,2,2,Algeria
+Male,Poorest_Wealth_quintile,Urban_Residence,39,21,14,Angola
+Male,Poorest_Wealth_quintile,Rural_Residence,39,21,35,Angola
+Female,Poorest_Wealth_quintile,Urban_Residence,39,22,14,Angola
+Female,Poorest_Wealth_quintile,Rural_Residence,39,22,35,Angola
+Male,Second_Wealth_quintile,Urban_Residence,33,21,14,Angola
+Male,Second_Wealth_quintile,Rural_Residence,33,21,35,Angola
+Female,Second_Wealth_quintile,Urban_Residence,33,22,14,Angola
+Female,Second_Wealth_quintile,Rural_Residence,33,22,35,Angola
+Male,Middle_Wealth_quintile,Urban_Residence,19,21,14,Angola
+Male,Middle_Wealth_quintile,Rural_Residence,19,21,35,Angola
+Female,Middle_Wealth_quintile,Urban_Residence,19,22,14,Angola
+Female,Middle_Wealth_quintile,Rural_Residence,19,22,35,Angola
+Male,Fourth_Wealth_quintile,Urban_Residence,12,21,14,Angola
+Male,Fourth_Wealth_quintile,Rural_Residence,12,21,35,Angola
+Female,Fourth_Wealth_quintile,Urban_Residence,12,22,14,Angola
+Female,Fourth_Wealth_quintile,Rural_Residence,12,22,35,Angola
+Male,Richest_Wealth_quintile,Urban_Residence,5,21,14,Angola
+Male,Richest_Wealth_quintile,Rural_Residence,5,21,35,Angola
+Female,Richest_Wealth_quintile,Urban_Residence,5,22,14,Angola
+Female,Richest_Wealth_quintile,Rural_Residence,5,22,35,Angola
+Male,Poorest_Wealth_quintile,Urban_Residence,1,2,0,Argentina
+Male,Poorest_Wealth_quintile,Rural_Residence,1,2,0,Argentina
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,0,Argentina
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,0,Argentina
+Male,Second_Wealth_quintile,Urban_Residence,0,2,0,Argentina
+Male,Second_Wealth_quintile,Rural_Residence,0,2,0,Argentina
+Female,Second_Wealth_quintile,Urban_Residence,0,1,0,Argentina
+Female,Second_Wealth_quintile,Rural_Residence,0,1,0,Argentina
+Male,Middle_Wealth_quintile,Urban_Residence,2,2,0,Argentina
+Male,Middle_Wealth_quintile,Rural_Residence,2,2,0,Argentina
+Female,Middle_Wealth_quintile,Urban_Residence,2,1,0,Argentina
+Female,Middle_Wealth_quintile,Rural_Residence,2,1,0,Argentina
+Male,Fourth_Wealth_quintile,Urban_Residence,2,2,0,Argentina
+Male,Fourth_Wealth_quintile,Rural_Residence,2,2,0,Argentina
+Female,Fourth_Wealth_quintile,Urban_Residence,2,1,0,Argentina
+Female,Fourth_Wealth_quintile,Rural_Residence,2,1,0,Argentina
+Male,Richest_Wealth_quintile,Urban_Residence,1,2,0,Argentina
+Male,Richest_Wealth_quintile,Rural_Residence,1,2,0,Argentina
+Female,Richest_Wealth_quintile,Urban_Residence,1,1,0,Argentina
+Female,Richest_Wealth_quintile,Rural_Residence,1,1,0,Argentina
+Male,Poorest_Wealth_quintile,Urban_Residence,6,5,3,Armenia
+Male,Poorest_Wealth_quintile,Rural_Residence,6,5,6,Armenia
+Female,Poorest_Wealth_quintile,Urban_Residence,6,4,3,Armenia
+Female,Poorest_Wealth_quintile,Rural_Residence,6,4,6,Armenia
+Male,Second_Wealth_quintile,Urban_Residence,7,5,3,Armenia
+Male,Second_Wealth_quintile,Rural_Residence,7,5,6,Armenia
+Female,Second_Wealth_quintile,Urban_Residence,7,4,3,Armenia
+Female,Second_Wealth_quintile,Rural_Residence,7,4,6,Armenia
+Male,Middle_Wealth_quintile,Urban_Residence,6,5,3,Armenia
+Male,Middle_Wealth_quintile,Rural_Residence,6,5,6,Armenia
+Female,Middle_Wealth_quintile,Urban_Residence,6,4,3,Armenia
+Female,Middle_Wealth_quintile,Rural_Residence,6,4,6,Armenia
+Male,Fourth_Wealth_quintile,Urban_Residence,3,5,3,Armenia
+Male,Fourth_Wealth_quintile,Rural_Residence,3,5,6,Armenia
+Female,Fourth_Wealth_quintile,Urban_Residence,3,4,3,Armenia
+Female,Fourth_Wealth_quintile,Rural_Residence,3,4,6,Armenia
+Male,Richest_Wealth_quintile,Urban_Residence,2,5,3,Armenia
+Male,Richest_Wealth_quintile,Rural_Residence,2,5,6,Armenia
+Female,Richest_Wealth_quintile,Urban_Residence,2,4,3,Armenia
+Female,Richest_Wealth_quintile,Rural_Residence,2,4,6,Armenia
+Male,Poorest_Wealth_quintile,Urban_Residence,9,8,6,Bangladesh
+Male,Poorest_Wealth_quintile,Rural_Residence,9,8,6,Bangladesh
+Female,Poorest_Wealth_quintile,Urban_Residence,9,5,6,Bangladesh
+Female,Poorest_Wealth_quintile,Rural_Residence,9,5,6,Bangladesh
+Male,Second_Wealth_quintile,Urban_Residence,7,8,6,Bangladesh
+Male,Second_Wealth_quintile,Rural_Residence,7,8,6,Bangladesh
+Female,Second_Wealth_quintile,Urban_Residence,7,5,6,Bangladesh
+Female,Second_Wealth_quintile,Rural_Residence,7,5,6,Bangladesh
+Male,Middle_Wealth_quintile,Urban_Residence,5,8,6,Bangladesh
+Male,Middle_Wealth_quintile,Rural_Residence,5,8,6,Bangladesh
+Female,Middle_Wealth_quintile,Urban_Residence,5,5,6,Bangladesh
+Female,Middle_Wealth_quintile,Rural_Residence,5,5,6,Bangladesh
+Male,Fourth_Wealth_quintile,Urban_Residence,6,8,6,Bangladesh
+Male,Fourth_Wealth_quintile,Rural_Residence,6,8,6,Bangladesh
+Female,Fourth_Wealth_quintile,Urban_Residence,6,5,6,Bangladesh
+Female,Fourth_Wealth_quintile,Rural_Residence,6,5,6,Bangladesh
+Male,Richest_Wealth_quintile,Urban_Residence,4,8,6,Bangladesh
+Male,Richest_Wealth_quintile,Rural_Residence,4,8,6,Bangladesh
+Female,Richest_Wealth_quintile,Urban_Residence,4,5,6,Bangladesh
+Female,Richest_Wealth_quintile,Rural_Residence,4,5,6,Bangladesh
+Male,Poorest_Wealth_quintile,Urban_Residence,1,0,0,Barbados
+Male,Poorest_Wealth_quintile,Rural_Residence,1,0,1,Barbados
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,0,Barbados
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Barbados
+Male,Second_Wealth_quintile,Urban_Residence,0,0,0,Barbados
+Male,Second_Wealth_quintile,Rural_Residence,0,0,1,Barbados
+Female,Second_Wealth_quintile,Urban_Residence,0,1,0,Barbados
+Female,Second_Wealth_quintile,Rural_Residence,0,1,1,Barbados
+Male,Middle_Wealth_quintile,Urban_Residence,0,0,0,Barbados
+Male,Middle_Wealth_quintile,Rural_Residence,0,0,1,Barbados
+Female,Middle_Wealth_quintile,Urban_Residence,0,1,0,Barbados
+Female,Middle_Wealth_quintile,Rural_Residence,0,1,1,Barbados
+Male,Fourth_Wealth_quintile,Urban_Residence,2,0,0,Barbados
+Male,Fourth_Wealth_quintile,Rural_Residence,2,0,1,Barbados
+Female,Fourth_Wealth_quintile,Urban_Residence,2,1,0,Barbados
+Female,Fourth_Wealth_quintile,Rural_Residence,2,1,1,Barbados
+Male,Richest_Wealth_quintile,Urban_Residence,0,0,0,Barbados
+Male,Richest_Wealth_quintile,Rural_Residence,0,0,1,Barbados
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,0,Barbados
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,1,Barbados
+Male,Poorest_Wealth_quintile,Urban_Residence,0,1,0,Belarus
+Male,Poorest_Wealth_quintile,Rural_Residence,0,1,0,Belarus
+Female,Poorest_Wealth_quintile,Urban_Residence,0,0,0,Belarus
+Female,Poorest_Wealth_quintile,Rural_Residence,0,0,0,Belarus
+Male,Second_Wealth_quintile,Urban_Residence,0,1,0,Belarus
+Male,Second_Wealth_quintile,Rural_Residence,0,1,0,Belarus
+Female,Second_Wealth_quintile,Urban_Residence,0,0,0,Belarus
+Female,Second_Wealth_quintile,Rural_Residence,0,0,0,Belarus
+Male,Middle_Wealth_quintile,Urban_Residence,0,1,0,Belarus
+Male,Middle_Wealth_quintile,Rural_Residence,0,1,0,Belarus
+Female,Middle_Wealth_quintile,Urban_Residence,0,0,0,Belarus
+Female,Middle_Wealth_quintile,Rural_Residence,0,0,0,Belarus
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,0,Belarus
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,0,Belarus
+Female,Fourth_Wealth_quintile,Urban_Residence,1,0,0,Belarus
+Female,Fourth_Wealth_quintile,Rural_Residence,1,0,0,Belarus
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,0,Belarus
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,0,Belarus
+Female,Richest_Wealth_quintile,Urban_Residence,0,0,0,Belarus
+Female,Richest_Wealth_quintile,Rural_Residence,0,0,0,Belarus
+Male,Poorest_Wealth_quintile,Urban_Residence,4,2,1,Belize
+Male,Poorest_Wealth_quintile,Rural_Residence,4,2,3,Belize
+Female,Poorest_Wealth_quintile,Urban_Residence,4,2,1,Belize
+Female,Poorest_Wealth_quintile,Rural_Residence,4,2,3,Belize
+Male,Second_Wealth_quintile,Urban_Residence,4,2,1,Belize
+Male,Second_Wealth_quintile,Rural_Residence,4,2,3,Belize
+Female,Second_Wealth_quintile,Urban_Residence,4,2,1,Belize
+Female,Second_Wealth_quintile,Rural_Residence,4,2,3,Belize
+Male,Middle_Wealth_quintile,Urban_Residence,1,2,1,Belize
+Male,Middle_Wealth_quintile,Rural_Residence,1,2,3,Belize
+Female,Middle_Wealth_quintile,Urban_Residence,1,2,1,Belize
+Female,Middle_Wealth_quintile,Rural_Residence,1,2,3,Belize
+Male,Fourth_Wealth_quintile,Urban_Residence,1,2,1,Belize
+Male,Fourth_Wealth_quintile,Rural_Residence,1,2,3,Belize
+Female,Fourth_Wealth_quintile,Urban_Residence,1,2,1,Belize
+Female,Fourth_Wealth_quintile,Rural_Residence,1,2,3,Belize
+Male,Richest_Wealth_quintile,Urban_Residence,0,2,1,Belize
+Male,Richest_Wealth_quintile,Rural_Residence,0,2,3,Belize
+Female,Richest_Wealth_quintile,Urban_Residence,0,2,1,Belize
+Female,Richest_Wealth_quintile,Rural_Residence,0,2,3,Belize
+Male,Poorest_Wealth_quintile,Urban_Residence,59,28,21,Benin
+Male,Poorest_Wealth_quintile,Rural_Residence,59,28,38,Benin
+Female,Poorest_Wealth_quintile,Urban_Residence,59,35,21,Benin
+Female,Poorest_Wealth_quintile,Rural_Residence,59,35,38,Benin
+Male,Second_Wealth_quintile,Urban_Residence,39,28,21,Benin
+Male,Second_Wealth_quintile,Rural_Residence,39,28,38,Benin
+Female,Second_Wealth_quintile,Urban_Residence,39,35,21,Benin
+Female,Second_Wealth_quintile,Rural_Residence,39,35,38,Benin
+Male,Middle_Wealth_quintile,Urban_Residence,30,28,21,Benin
+Male,Middle_Wealth_quintile,Rural_Residence,30,28,38,Benin
+Female,Middle_Wealth_quintile,Urban_Residence,30,35,21,Benin
+Female,Middle_Wealth_quintile,Rural_Residence,30,35,38,Benin
+Male,Fourth_Wealth_quintile,Urban_Residence,15,28,21,Benin
+Male,Fourth_Wealth_quintile,Rural_Residence,15,28,38,Benin
+Female,Fourth_Wealth_quintile,Urban_Residence,15,35,21,Benin
+Female,Fourth_Wealth_quintile,Rural_Residence,15,35,38,Benin
+Male,Richest_Wealth_quintile,Urban_Residence,7,28,21,Benin
+Male,Richest_Wealth_quintile,Rural_Residence,7,28,38,Benin
+Female,Richest_Wealth_quintile,Urban_Residence,7,35,21,Benin
+Female,Richest_Wealth_quintile,Rural_Residence,7,35,38,Benin
+Male,Poorest_Wealth_quintile,Urban_Residence,15,9,3,Bhutan
+Male,Poorest_Wealth_quintile,Rural_Residence,15,9,10,Bhutan
+Female,Poorest_Wealth_quintile,Urban_Residence,15,7,3,Bhutan
+Female,Poorest_Wealth_quintile,Rural_Residence,15,7,10,Bhutan
+Male,Second_Wealth_quintile,Urban_Residence,11,9,3,Bhutan
+Male,Second_Wealth_quintile,Rural_Residence,11,9,10,Bhutan
+Female,Second_Wealth_quintile,Urban_Residence,11,7,3,Bhutan
+Female,Second_Wealth_quintile,Rural_Residence,11,7,10,Bhutan
+Male,Middle_Wealth_quintile,Urban_Residence,6,9,3,Bhutan
+Male,Middle_Wealth_quintile,Rural_Residence,6,9,10,Bhutan
+Female,Middle_Wealth_quintile,Urban_Residence,6,7,3,Bhutan
+Female,Middle_Wealth_quintile,Rural_Residence,6,7,10,Bhutan
+Male,Fourth_Wealth_quintile,Urban_Residence,4,9,3,Bhutan
+Male,Fourth_Wealth_quintile,Rural_Residence,4,9,10,Bhutan
+Female,Fourth_Wealth_quintile,Urban_Residence,4,7,3,Bhutan
+Female,Fourth_Wealth_quintile,Rural_Residence,4,7,10,Bhutan
+Male,Richest_Wealth_quintile,Urban_Residence,3,9,3,Bhutan
+Male,Richest_Wealth_quintile,Rural_Residence,3,9,10,Bhutan
+Female,Richest_Wealth_quintile,Urban_Residence,3,7,3,Bhutan
+Female,Richest_Wealth_quintile,Rural_Residence,3,7,10,Bhutan
+Male,Poorest_Wealth_quintile,Urban_Residence,7,2,3,Bosnia and Herzegovina
+Male,Poorest_Wealth_quintile,Rural_Residence,7,2,3,Bosnia and Herzegovina
+Female,Poorest_Wealth_quintile,Urban_Residence,7,4,3,Bosnia and Herzegovina
+Female,Poorest_Wealth_quintile,Rural_Residence,7,4,3,Bosnia and Herzegovina
+Male,Second_Wealth_quintile,Urban_Residence,1,2,3,Bosnia and Herzegovina
+Male,Second_Wealth_quintile,Rural_Residence,1,2,3,Bosnia and Herzegovina
+Female,Second_Wealth_quintile,Urban_Residence,1,4,3,Bosnia and Herzegovina
+Female,Second_Wealth_quintile,Rural_Residence,1,4,3,Bosnia and Herzegovina
+Male,Middle_Wealth_quintile,Urban_Residence,3,2,3,Bosnia and Herzegovina
+Male,Middle_Wealth_quintile,Rural_Residence,3,2,3,Bosnia and Herzegovina
+Female,Middle_Wealth_quintile,Urban_Residence,3,4,3,Bosnia and Herzegovina
+Female,Middle_Wealth_quintile,Rural_Residence,3,4,3,Bosnia and Herzegovina
+Male,Fourth_Wealth_quintile,Urban_Residence,1,2,3,Bosnia and Herzegovina
+Male,Fourth_Wealth_quintile,Rural_Residence,1,2,3,Bosnia and Herzegovina
+Female,Fourth_Wealth_quintile,Urban_Residence,1,4,3,Bosnia and Herzegovina
+Female,Fourth_Wealth_quintile,Rural_Residence,1,4,3,Bosnia and Herzegovina
+Male,Richest_Wealth_quintile,Urban_Residence,3,2,3,Bosnia and Herzegovina
+Male,Richest_Wealth_quintile,Rural_Residence,3,2,3,Bosnia and Herzegovina
+Female,Richest_Wealth_quintile,Urban_Residence,3,4,3,Bosnia and Herzegovina
+Female,Richest_Wealth_quintile,Rural_Residence,3,4,3,Bosnia and Herzegovina
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,0,Brazil
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Brazil
+Female,Poorest_Wealth_quintile,Urban_Residence,1,0,0,Brazil
+Female,Poorest_Wealth_quintile,Rural_Residence,1,0,1,Brazil
+Male,Second_Wealth_quintile,Urban_Residence,1,1,0,Brazil
+Male,Second_Wealth_quintile,Rural_Residence,1,1,1,Brazil
+Female,Second_Wealth_quintile,Urban_Residence,1,0,0,Brazil
+Female,Second_Wealth_quintile,Rural_Residence,1,0,1,Brazil
+Male,Middle_Wealth_quintile,Urban_Residence,0,1,0,Brazil
+Male,Middle_Wealth_quintile,Rural_Residence,0,1,1,Brazil
+Female,Middle_Wealth_quintile,Urban_Residence,0,0,0,Brazil
+Female,Middle_Wealth_quintile,Rural_Residence,0,0,1,Brazil
+Male,Fourth_Wealth_quintile,Urban_Residence,0,1,0,Brazil
+Male,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Brazil
+Female,Fourth_Wealth_quintile,Urban_Residence,0,0,0,Brazil
+Female,Fourth_Wealth_quintile,Rural_Residence,0,0,1,Brazil
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,0,Brazil
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Brazil
+Female,Richest_Wealth_quintile,Urban_Residence,0,0,0,Brazil
+Female,Richest_Wealth_quintile,Rural_Residence,0,0,1,Brazil
+Male,Poorest_Wealth_quintile,Urban_Residence,69,46,17,Burkina Faso
+Male,Poorest_Wealth_quintile,Rural_Residence,69,46,55,Burkina Faso
+Female,Poorest_Wealth_quintile,Urban_Residence,69,50,17,Burkina Faso
+Female,Poorest_Wealth_quintile,Rural_Residence,69,50,55,Burkina Faso
+Male,Second_Wealth_quintile,Urban_Residence,58,46,17,Burkina Faso
+Male,Second_Wealth_quintile,Rural_Residence,58,46,55,Burkina Faso
+Female,Second_Wealth_quintile,Urban_Residence,58,50,17,Burkina Faso
+Female,Second_Wealth_quintile,Rural_Residence,58,50,55,Burkina Faso
+Male,Middle_Wealth_quintile,Urban_Residence,50,46,17,Burkina Faso
+Male,Middle_Wealth_quintile,Rural_Residence,50,46,55,Burkina Faso
+Female,Middle_Wealth_quintile,Urban_Residence,50,50,17,Burkina Faso
+Female,Middle_Wealth_quintile,Rural_Residence,50,50,55,Burkina Faso
+Male,Fourth_Wealth_quintile,Urban_Residence,40,46,17,Burkina Faso
+Male,Fourth_Wealth_quintile,Rural_Residence,40,46,55,Burkina Faso
+Female,Fourth_Wealth_quintile,Urban_Residence,40,50,17,Burkina Faso
+Female,Fourth_Wealth_quintile,Rural_Residence,40,50,55,Burkina Faso
+Male,Richest_Wealth_quintile,Urban_Residence,15,46,17,Burkina Faso
+Male,Richest_Wealth_quintile,Rural_Residence,15,46,55,Burkina Faso
+Female,Richest_Wealth_quintile,Urban_Residence,15,50,17,Burkina Faso
+Female,Richest_Wealth_quintile,Rural_Residence,15,50,55,Burkina Faso
+Male,Poorest_Wealth_quintile,Urban_Residence,36,18,6,Burundi
+Male,Poorest_Wealth_quintile,Rural_Residence,36,18,19,Burundi
+Female,Poorest_Wealth_quintile,Urban_Residence,36,18,6,Burundi
+Female,Poorest_Wealth_quintile,Rural_Residence,36,18,19,Burundi
+Male,Second_Wealth_quintile,Urban_Residence,21,18,6,Burundi
+Male,Second_Wealth_quintile,Rural_Residence,21,18,19,Burundi
+Female,Second_Wealth_quintile,Urban_Residence,21,18,6,Burundi
+Female,Second_Wealth_quintile,Rural_Residence,21,18,19,Burundi
+Male,Middle_Wealth_quintile,Urban_Residence,14,18,6,Burundi
+Male,Middle_Wealth_quintile,Rural_Residence,14,18,19,Burundi
+Female,Middle_Wealth_quintile,Urban_Residence,14,18,6,Burundi
+Female,Middle_Wealth_quintile,Rural_Residence,14,18,19,Burundi
+Male,Fourth_Wealth_quintile,Urban_Residence,11,18,6,Burundi
+Male,Fourth_Wealth_quintile,Rural_Residence,11,18,19,Burundi
+Female,Fourth_Wealth_quintile,Urban_Residence,11,18,6,Burundi
+Female,Fourth_Wealth_quintile,Rural_Residence,11,18,19,Burundi
+Male,Richest_Wealth_quintile,Urban_Residence,6,18,6,Burundi
+Male,Richest_Wealth_quintile,Rural_Residence,6,18,19,Burundi
+Female,Richest_Wealth_quintile,Urban_Residence,6,18,6,Burundi
+Female,Richest_Wealth_quintile,Rural_Residence,6,18,19,Burundi
+Male,Poorest_Wealth_quintile,Urban_Residence,13,7,3,Cambodia
+Male,Poorest_Wealth_quintile,Rural_Residence,13,7,7,Cambodia
+Female,Poorest_Wealth_quintile,Urban_Residence,13,5,3,Cambodia
+Female,Poorest_Wealth_quintile,Rural_Residence,13,5,7,Cambodia
+Male,Second_Wealth_quintile,Urban_Residence,8,7,3,Cambodia
+Male,Second_Wealth_quintile,Rural_Residence,8,7,7,Cambodia
+Female,Second_Wealth_quintile,Urban_Residence,8,5,3,Cambodia
+Female,Second_Wealth_quintile,Rural_Residence,8,5,7,Cambodia
+Male,Middle_Wealth_quintile,Urban_Residence,4,7,3,Cambodia
+Male,Middle_Wealth_quintile,Rural_Residence,4,7,7,Cambodia
+Female,Middle_Wealth_quintile,Urban_Residence,4,5,3,Cambodia
+Female,Middle_Wealth_quintile,Rural_Residence,4,5,7,Cambodia
+Male,Fourth_Wealth_quintile,Urban_Residence,3,7,3,Cambodia
+Male,Fourth_Wealth_quintile,Rural_Residence,3,7,7,Cambodia
+Female,Fourth_Wealth_quintile,Urban_Residence,3,5,3,Cambodia
+Female,Fourth_Wealth_quintile,Rural_Residence,3,5,7,Cambodia
+Male,Richest_Wealth_quintile,Urban_Residence,2,7,3,Cambodia
+Male,Richest_Wealth_quintile,Rural_Residence,2,7,7,Cambodia
+Female,Richest_Wealth_quintile,Urban_Residence,2,5,3,Cambodia
+Female,Richest_Wealth_quintile,Rural_Residence,2,5,7,Cambodia
+Male,Poorest_Wealth_quintile,Urban_Residence,37,14,6,Cameroon
+Male,Poorest_Wealth_quintile,Rural_Residence,37,14,24,Cameroon
+Female,Poorest_Wealth_quintile,Urban_Residence,37,17,6,Cameroon
+Female,Poorest_Wealth_quintile,Rural_Residence,37,17,24,Cameroon
+Male,Second_Wealth_quintile,Urban_Residence,18,14,6,Cameroon
+Male,Second_Wealth_quintile,Rural_Residence,18,14,24,Cameroon
+Female,Second_Wealth_quintile,Urban_Residence,18,17,6,Cameroon
+Female,Second_Wealth_quintile,Rural_Residence,18,17,24,Cameroon
+Male,Middle_Wealth_quintile,Urban_Residence,10,14,6,Cameroon
+Male,Middle_Wealth_quintile,Rural_Residence,10,14,24,Cameroon
+Female,Middle_Wealth_quintile,Urban_Residence,10,17,6,Cameroon
+Female,Middle_Wealth_quintile,Rural_Residence,10,17,24,Cameroon
+Male,Fourth_Wealth_quintile,Urban_Residence,4,14,6,Cameroon
+Male,Fourth_Wealth_quintile,Rural_Residence,4,14,24,Cameroon
+Female,Fourth_Wealth_quintile,Urban_Residence,4,17,6,Cameroon
+Female,Fourth_Wealth_quintile,Rural_Residence,4,17,24,Cameroon
+Male,Richest_Wealth_quintile,Urban_Residence,2,14,6,Cameroon
+Male,Richest_Wealth_quintile,Rural_Residence,2,14,24,Cameroon
+Female,Richest_Wealth_quintile,Urban_Residence,2,17,6,Cameroon
+Female,Richest_Wealth_quintile,Rural_Residence,2,17,24,Cameroon
+Male,Poorest_Wealth_quintile,Urban_Residence,42,21,13,Central African Republic
+Male,Poorest_Wealth_quintile,Rural_Residence,42,21,33,Central African Republic
+Female,Poorest_Wealth_quintile,Urban_Residence,42,31,13,Central African Republic
+Female,Poorest_Wealth_quintile,Rural_Residence,42,31,33,Central African Republic
+Male,Second_Wealth_quintile,Urban_Residence,36,21,13,Central African Republic
+Male,Second_Wealth_quintile,Rural_Residence,36,21,33,Central African Republic
+Female,Second_Wealth_quintile,Urban_Residence,36,31,13,Central African Republic
+Female,Second_Wealth_quintile,Rural_Residence,36,31,33,Central African Republic
+Male,Middle_Wealth_quintile,Urban_Residence,26,21,13,Central African Republic
+Male,Middle_Wealth_quintile,Rural_Residence,26,21,33,Central African Republic
+Female,Middle_Wealth_quintile,Urban_Residence,26,31,13,Central African Republic
+Female,Middle_Wealth_quintile,Rural_Residence,26,31,33,Central African Republic
+Male,Fourth_Wealth_quintile,Urban_Residence,17,21,13,Central African Republic
+Male,Fourth_Wealth_quintile,Rural_Residence,17,21,33,Central African Republic
+Female,Fourth_Wealth_quintile,Urban_Residence,17,31,13,Central African Republic
+Female,Fourth_Wealth_quintile,Rural_Residence,17,31,33,Central African Republic
+Male,Richest_Wealth_quintile,Urban_Residence,8,21,13,Central African Republic
+Male,Richest_Wealth_quintile,Rural_Residence,8,21,33,Central African Republic
+Female,Richest_Wealth_quintile,Urban_Residence,8,31,13,Central African Republic
+Female,Richest_Wealth_quintile,Rural_Residence,8,31,33,Central African Republic
+Male,Poorest_Wealth_quintile,Urban_Residence,55,47,28,Chad
+Male,Poorest_Wealth_quintile,Rural_Residence,55,47,55,Chad
+Female,Poorest_Wealth_quintile,Urban_Residence,55,53,28,Chad
+Female,Poorest_Wealth_quintile,Rural_Residence,55,53,55,Chad
+Male,Second_Wealth_quintile,Urban_Residence,53,47,28,Chad
+Male,Second_Wealth_quintile,Rural_Residence,53,47,55,Chad
+Female,Second_Wealth_quintile,Urban_Residence,53,53,28,Chad
+Female,Second_Wealth_quintile,Rural_Residence,53,53,55,Chad
+Male,Middle_Wealth_quintile,Urban_Residence,57,47,28,Chad
+Male,Middle_Wealth_quintile,Rural_Residence,57,47,55,Chad
+Female,Middle_Wealth_quintile,Urban_Residence,57,53,28,Chad
+Female,Middle_Wealth_quintile,Rural_Residence,57,53,55,Chad
+Male,Fourth_Wealth_quintile,Urban_Residence,55,47,28,Chad
+Male,Fourth_Wealth_quintile,Rural_Residence,55,47,55,Chad
+Female,Fourth_Wealth_quintile,Urban_Residence,55,53,28,Chad
+Female,Fourth_Wealth_quintile,Rural_Residence,55,53,55,Chad
+Male,Richest_Wealth_quintile,Urban_Residence,24,47,28,Chad
+Male,Richest_Wealth_quintile,Rural_Residence,24,47,55,Chad
+Female,Richest_Wealth_quintile,Urban_Residence,24,53,28,Chad
+Female,Richest_Wealth_quintile,Rural_Residence,24,53,55,Chad
+Male,Poorest_Wealth_quintile,Urban_Residence,3,2,2,Colombia
+Male,Poorest_Wealth_quintile,Rural_Residence,3,2,2,Colombia
+Female,Poorest_Wealth_quintile,Urban_Residence,3,2,2,Colombia
+Female,Poorest_Wealth_quintile,Rural_Residence,3,2,2,Colombia
+Male,Second_Wealth_quintile,Urban_Residence,2,2,2,Colombia
+Male,Second_Wealth_quintile,Rural_Residence,2,2,2,Colombia
+Female,Second_Wealth_quintile,Urban_Residence,2,2,2,Colombia
+Female,Second_Wealth_quintile,Rural_Residence,2,2,2,Colombia
+Male,Middle_Wealth_quintile,Urban_Residence,1,2,2,Colombia
+Male,Middle_Wealth_quintile,Rural_Residence,1,2,2,Colombia
+Female,Middle_Wealth_quintile,Urban_Residence,1,2,2,Colombia
+Female,Middle_Wealth_quintile,Rural_Residence,1,2,2,Colombia
+Male,Fourth_Wealth_quintile,Urban_Residence,1,2,2,Colombia
+Male,Fourth_Wealth_quintile,Rural_Residence,1,2,2,Colombia
+Female,Fourth_Wealth_quintile,Urban_Residence,1,2,2,Colombia
+Female,Fourth_Wealth_quintile,Rural_Residence,1,2,2,Colombia
+Male,Richest_Wealth_quintile,Urban_Residence,2,2,2,Colombia
+Male,Richest_Wealth_quintile,Rural_Residence,2,2,2,Colombia
+Female,Richest_Wealth_quintile,Urban_Residence,2,2,2,Colombia
+Female,Richest_Wealth_quintile,Rural_Residence,2,2,2,Colombia
+Male,Poorest_Wealth_quintile,Urban_Residence,28,14,9,Comoros
+Male,Poorest_Wealth_quintile,Rural_Residence,28,14,17,Comoros
+Female,Poorest_Wealth_quintile,Urban_Residence,28,15,9,Comoros
+Female,Poorest_Wealth_quintile,Rural_Residence,28,15,17,Comoros
+Male,Second_Wealth_quintile,Urban_Residence,18,14,9,Comoros
+Male,Second_Wealth_quintile,Rural_Residence,18,14,17,Comoros
+Female,Second_Wealth_quintile,Urban_Residence,18,15,9,Comoros
+Female,Second_Wealth_quintile,Rural_Residence,18,15,17,Comoros
+Male,Middle_Wealth_quintile,Urban_Residence,10,14,9,Comoros
+Male,Middle_Wealth_quintile,Rural_Residence,10,14,17,Comoros
+Female,Middle_Wealth_quintile,Urban_Residence,10,15,9,Comoros
+Female,Middle_Wealth_quintile,Rural_Residence,10,15,17,Comoros
+Male,Fourth_Wealth_quintile,Urban_Residence,4,14,9,Comoros
+Male,Fourth_Wealth_quintile,Rural_Residence,4,14,17,Comoros
+Female,Fourth_Wealth_quintile,Urban_Residence,4,15,9,Comoros
+Female,Fourth_Wealth_quintile,Rural_Residence,4,15,17,Comoros
+Male,Richest_Wealth_quintile,Urban_Residence,4,14,9,Comoros
+Male,Richest_Wealth_quintile,Rural_Residence,4,14,17,Comoros
+Female,Richest_Wealth_quintile,Urban_Residence,4,15,9,Comoros
+Female,Richest_Wealth_quintile,Rural_Residence,4,15,17,Comoros
+Male,Poorest_Wealth_quintile,Urban_Residence,8,3,2,Congo
+Male,Poorest_Wealth_quintile,Rural_Residence,8,3,6,Congo
+Female,Poorest_Wealth_quintile,Urban_Residence,8,3,2,Congo
+Female,Poorest_Wealth_quintile,Rural_Residence,8,3,6,Congo
+Male,Second_Wealth_quintile,Urban_Residence,4,3,2,Congo
+Male,Second_Wealth_quintile,Rural_Residence,4,3,6,Congo
+Female,Second_Wealth_quintile,Urban_Residence,4,3,2,Congo
+Female,Second_Wealth_quintile,Rural_Residence,4,3,6,Congo
+Male,Middle_Wealth_quintile,Urban_Residence,2,3,2,Congo
+Male,Middle_Wealth_quintile,Rural_Residence,2,3,6,Congo
+Female,Middle_Wealth_quintile,Urban_Residence,2,3,2,Congo
+Female,Middle_Wealth_quintile,Rural_Residence,2,3,6,Congo
+Male,Fourth_Wealth_quintile,Urban_Residence,1,3,2,Congo
+Male,Fourth_Wealth_quintile,Rural_Residence,1,3,6,Congo
+Female,Fourth_Wealth_quintile,Urban_Residence,1,3,2,Congo
+Female,Fourth_Wealth_quintile,Rural_Residence,1,3,6,Congo
+Male,Richest_Wealth_quintile,Urban_Residence,1,3,2,Congo
+Male,Richest_Wealth_quintile,Rural_Residence,1,3,6,Congo
+Female,Richest_Wealth_quintile,Urban_Residence,1,3,2,Congo
+Female,Richest_Wealth_quintile,Rural_Residence,1,3,6,Congo
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Costa Rica
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Costa Rica
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Costa Rica
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Costa Rica
+Male,Second_Wealth_quintile,Urban_Residence,2,1,1,Costa Rica
+Male,Second_Wealth_quintile,Rural_Residence,2,1,1,Costa Rica
+Female,Second_Wealth_quintile,Urban_Residence,2,1,1,Costa Rica
+Female,Second_Wealth_quintile,Rural_Residence,2,1,1,Costa Rica
+Male,Middle_Wealth_quintile,Urban_Residence,2,1,1,Costa Rica
+Male,Middle_Wealth_quintile,Rural_Residence,2,1,1,Costa Rica
+Female,Middle_Wealth_quintile,Urban_Residence,2,1,1,Costa Rica
+Female,Middle_Wealth_quintile,Rural_Residence,2,1,1,Costa Rica
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Costa Rica
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Costa Rica
+Female,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Costa Rica
+Female,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Costa Rica
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,1,Costa Rica
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Costa Rica
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,1,Costa Rica
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,1,Costa Rica
+Male,Poorest_Wealth_quintile,Urban_Residence,38,21,15,C�te d'Ivoire
+Male,Poorest_Wealth_quintile,Rural_Residence,38,21,29,C�te d'Ivoire
+Female,Poorest_Wealth_quintile,Urban_Residence,38,26,15,C�te d'Ivoire
+Female,Poorest_Wealth_quintile,Rural_Residence,38,26,29,C�te d'Ivoire
+Male,Second_Wealth_quintile,Urban_Residence,29,21,15,C�te d'Ivoire
+Male,Second_Wealth_quintile,Rural_Residence,29,21,29,C�te d'Ivoire
+Female,Second_Wealth_quintile,Urban_Residence,29,26,15,C�te d'Ivoire
+Female,Second_Wealth_quintile,Rural_Residence,29,26,29,C�te d'Ivoire
+Male,Middle_Wealth_quintile,Urban_Residence,23,21,15,C�te d'Ivoire
+Male,Middle_Wealth_quintile,Rural_Residence,23,21,29,C�te d'Ivoire
+Female,Middle_Wealth_quintile,Urban_Residence,23,26,15,C�te d'Ivoire
+Female,Middle_Wealth_quintile,Rural_Residence,23,26,29,C�te d'Ivoire
+Male,Fourth_Wealth_quintile,Urban_Residence,13,21,15,C�te d'Ivoire
+Male,Fourth_Wealth_quintile,Rural_Residence,13,21,29,C�te d'Ivoire
+Female,Fourth_Wealth_quintile,Urban_Residence,13,26,15,C�te d'Ivoire
+Female,Fourth_Wealth_quintile,Rural_Residence,13,26,29,C�te d'Ivoire
+Male,Richest_Wealth_quintile,Urban_Residence,6,21,15,C�te d'Ivoire
+Male,Richest_Wealth_quintile,Rural_Residence,6,21,29,C�te d'Ivoire
+Female,Richest_Wealth_quintile,Urban_Residence,6,26,15,C�te d'Ivoire
+Female,Richest_Wealth_quintile,Rural_Residence,6,26,29,C�te d'Ivoire
+Male,Poorest_Wealth_quintile,Urban_Residence,35,21,13,Democratic Republic of the Congo
+Male,Poorest_Wealth_quintile,Rural_Residence,35,21,28,Democratic Republic of the Congo
+Female,Poorest_Wealth_quintile,Urban_Residence,35,22,13,Democratic Republic of the Congo
+Female,Poorest_Wealth_quintile,Rural_Residence,35,22,28,Democratic Republic of the Congo
+Male,Second_Wealth_quintile,Urban_Residence,29,21,13,Democratic Republic of the Congo
+Male,Second_Wealth_quintile,Rural_Residence,29,21,28,Democratic Republic of the Congo
+Female,Second_Wealth_quintile,Urban_Residence,29,22,13,Democratic Republic of the Congo
+Female,Second_Wealth_quintile,Rural_Residence,29,22,28,Democratic Republic of the Congo
+Male,Middle_Wealth_quintile,Urban_Residence,21,21,13,Democratic Republic of the Congo
+Male,Middle_Wealth_quintile,Rural_Residence,21,21,28,Democratic Republic of the Congo
+Female,Middle_Wealth_quintile,Urban_Residence,21,22,13,Democratic Republic of the Congo
+Female,Middle_Wealth_quintile,Rural_Residence,21,22,28,Democratic Republic of the Congo
+Male,Fourth_Wealth_quintile,Urban_Residence,15,21,13,Democratic Republic of the Congo
+Male,Fourth_Wealth_quintile,Rural_Residence,15,21,28,Democratic Republic of the Congo
+Female,Fourth_Wealth_quintile,Urban_Residence,15,22,13,Democratic Republic of the Congo
+Female,Fourth_Wealth_quintile,Rural_Residence,15,22,28,Democratic Republic of the Congo
+Male,Richest_Wealth_quintile,Urban_Residence,6,21,13,Democratic Republic of the Congo
+Male,Richest_Wealth_quintile,Rural_Residence,6,21,28,Democratic Republic of the Congo
+Female,Richest_Wealth_quintile,Urban_Residence,6,22,13,Democratic Republic of the Congo
+Female,Richest_Wealth_quintile,Rural_Residence,6,22,28,Democratic Republic of the Congo
+Male,Poorest_Wealth_quintile,Urban_Residence,6,4,3,Dominican Republic
+Male,Poorest_Wealth_quintile,Rural_Residence,6,4,3,Dominican Republic
+Female,Poorest_Wealth_quintile,Urban_Residence,6,2,3,Dominican Republic
+Female,Poorest_Wealth_quintile,Rural_Residence,6,2,3,Dominican Republic
+Male,Second_Wealth_quintile,Urban_Residence,4,4,3,Dominican Republic
+Male,Second_Wealth_quintile,Rural_Residence,4,4,3,Dominican Republic
+Female,Second_Wealth_quintile,Urban_Residence,4,2,3,Dominican Republic
+Female,Second_Wealth_quintile,Rural_Residence,4,2,3,Dominican Republic
+Male,Middle_Wealth_quintile,Urban_Residence,2,4,3,Dominican Republic
+Male,Middle_Wealth_quintile,Rural_Residence,2,4,3,Dominican Republic
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,3,Dominican Republic
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,3,Dominican Republic
+Male,Fourth_Wealth_quintile,Urban_Residence,3,4,3,Dominican Republic
+Male,Fourth_Wealth_quintile,Rural_Residence,3,4,3,Dominican Republic
+Female,Fourth_Wealth_quintile,Urban_Residence,3,2,3,Dominican Republic
+Female,Fourth_Wealth_quintile,Rural_Residence,3,2,3,Dominican Republic
+Male,Richest_Wealth_quintile,Urban_Residence,1,4,3,Dominican Republic
+Male,Richest_Wealth_quintile,Rural_Residence,1,4,3,Dominican Republic
+Female,Richest_Wealth_quintile,Urban_Residence,1,2,3,Dominican Republic
+Female,Richest_Wealth_quintile,Rural_Residence,1,2,3,Dominican Republic
+Male,Poorest_Wealth_quintile,Urban_Residence,5,3,3,Egypt
+Male,Poorest_Wealth_quintile,Rural_Residence,5,3,3,Egypt
+Female,Poorest_Wealth_quintile,Urban_Residence,5,3,3,Egypt
+Female,Poorest_Wealth_quintile,Rural_Residence,5,3,3,Egypt
+Male,Second_Wealth_quintile,Urban_Residence,4,3,3,Egypt
+Male,Second_Wealth_quintile,Rural_Residence,4,3,3,Egypt
+Female,Second_Wealth_quintile,Urban_Residence,4,3,3,Egypt
+Female,Second_Wealth_quintile,Rural_Residence,4,3,3,Egypt
+Male,Middle_Wealth_quintile,Urban_Residence,2,3,3,Egypt
+Male,Middle_Wealth_quintile,Rural_Residence,2,3,3,Egypt
+Female,Middle_Wealth_quintile,Urban_Residence,2,3,3,Egypt
+Female,Middle_Wealth_quintile,Rural_Residence,2,3,3,Egypt
+Male,Fourth_Wealth_quintile,Urban_Residence,2,3,3,Egypt
+Male,Fourth_Wealth_quintile,Rural_Residence,2,3,3,Egypt
+Female,Fourth_Wealth_quintile,Urban_Residence,2,3,3,Egypt
+Female,Fourth_Wealth_quintile,Rural_Residence,2,3,3,Egypt
+Male,Richest_Wealth_quintile,Urban_Residence,2,3,3,Egypt
+Male,Richest_Wealth_quintile,Rural_Residence,2,3,3,Egypt
+Female,Richest_Wealth_quintile,Urban_Residence,2,3,3,Egypt
+Female,Richest_Wealth_quintile,Rural_Residence,2,3,3,Egypt
+Male,Poorest_Wealth_quintile,Urban_Residence,8,4,3,El Salvador
+Male,Poorest_Wealth_quintile,Rural_Residence,8,4,5,El Salvador
+Female,Poorest_Wealth_quintile,Urban_Residence,8,3,3,El Salvador
+Female,Poorest_Wealth_quintile,Rural_Residence,8,3,5,El Salvador
+Male,Second_Wealth_quintile,Urban_Residence,4,4,3,El Salvador
+Male,Second_Wealth_quintile,Rural_Residence,4,4,5,El Salvador
+Female,Second_Wealth_quintile,Urban_Residence,4,3,3,El Salvador
+Female,Second_Wealth_quintile,Rural_Residence,4,3,5,El Salvador
+Male,Middle_Wealth_quintile,Urban_Residence,2,4,3,El Salvador
+Male,Middle_Wealth_quintile,Rural_Residence,2,4,5,El Salvador
+Female,Middle_Wealth_quintile,Urban_Residence,2,3,3,El Salvador
+Female,Middle_Wealth_quintile,Rural_Residence,2,3,5,El Salvador
+Male,Fourth_Wealth_quintile,Urban_Residence,2,4,3,El Salvador
+Male,Fourth_Wealth_quintile,Rural_Residence,2,4,5,El Salvador
+Female,Fourth_Wealth_quintile,Urban_Residence,2,3,3,El Salvador
+Female,Fourth_Wealth_quintile,Rural_Residence,2,3,5,El Salvador
+Male,Richest_Wealth_quintile,Urban_Residence,0,4,3,El Salvador
+Male,Richest_Wealth_quintile,Rural_Residence,0,4,5,El Salvador
+Female,Richest_Wealth_quintile,Urban_Residence,0,3,3,El Salvador
+Female,Richest_Wealth_quintile,Rural_Residence,0,3,5,El Salvador
+Male,Poorest_Wealth_quintile,Urban_Residence,2,2,1,Eswatini
+Male,Poorest_Wealth_quintile,Rural_Residence,2,2,2,Eswatini
+Female,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Eswatini
+Female,Poorest_Wealth_quintile,Rural_Residence,2,1,2,Eswatini
+Male,Second_Wealth_quintile,Urban_Residence,2,2,1,Eswatini
+Male,Second_Wealth_quintile,Rural_Residence,2,2,2,Eswatini
+Female,Second_Wealth_quintile,Urban_Residence,2,1,1,Eswatini
+Female,Second_Wealth_quintile,Rural_Residence,2,1,2,Eswatini
+Male,Middle_Wealth_quintile,Urban_Residence,1,2,1,Eswatini
+Male,Middle_Wealth_quintile,Rural_Residence,1,2,2,Eswatini
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,Eswatini
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,2,Eswatini
+Male,Fourth_Wealth_quintile,Urban_Residence,2,2,1,Eswatini
+Male,Fourth_Wealth_quintile,Rural_Residence,2,2,2,Eswatini
+Female,Fourth_Wealth_quintile,Urban_Residence,2,1,1,Eswatini
+Female,Fourth_Wealth_quintile,Rural_Residence,2,1,2,Eswatini
+Male,Richest_Wealth_quintile,Urban_Residence,0,2,1,Eswatini
+Male,Richest_Wealth_quintile,Rural_Residence,0,2,2,Eswatini
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,1,Eswatini
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,2,Eswatini
+Male,Poorest_Wealth_quintile,Urban_Residence,41,26,9,Ethiopia
+Male,Poorest_Wealth_quintile,Rural_Residence,41,26,27,Ethiopia
+Female,Poorest_Wealth_quintile,Urban_Residence,41,25,9,Ethiopia
+Female,Poorest_Wealth_quintile,Rural_Residence,41,25,27,Ethiopia
+Male,Second_Wealth_quintile,Urban_Residence,30,26,9,Ethiopia
+Male,Second_Wealth_quintile,Rural_Residence,30,26,27,Ethiopia
+Female,Second_Wealth_quintile,Urban_Residence,30,25,9,Ethiopia
+Female,Second_Wealth_quintile,Rural_Residence,30,25,27,Ethiopia
+Male,Middle_Wealth_quintile,Urban_Residence,22,26,9,Ethiopia
+Male,Middle_Wealth_quintile,Rural_Residence,22,26,27,Ethiopia
+Female,Middle_Wealth_quintile,Urban_Residence,22,25,9,Ethiopia
+Female,Middle_Wealth_quintile,Rural_Residence,22,25,27,Ethiopia
+Male,Fourth_Wealth_quintile,Urban_Residence,19,26,9,Ethiopia
+Male,Fourth_Wealth_quintile,Rural_Residence,19,26,27,Ethiopia
+Female,Fourth_Wealth_quintile,Urban_Residence,19,25,9,Ethiopia
+Female,Fourth_Wealth_quintile,Rural_Residence,19,25,27,Ethiopia
+Male,Richest_Wealth_quintile,Urban_Residence,9,26,9,Ethiopia
+Male,Richest_Wealth_quintile,Rural_Residence,9,26,27,Ethiopia
+Female,Richest_Wealth_quintile,Urban_Residence,9,25,9,Ethiopia
+Female,Richest_Wealth_quintile,Rural_Residence,9,25,27,Ethiopia
+Male,Poorest_Wealth_quintile,Urban_Residence,8,4,4,Gabon
+Male,Poorest_Wealth_quintile,Rural_Residence,8,4,5,Gabon
+Female,Poorest_Wealth_quintile,Urban_Residence,8,3,4,Gabon
+Female,Poorest_Wealth_quintile,Rural_Residence,8,3,5,Gabon
+Male,Second_Wealth_quintile,Urban_Residence,4,4,4,Gabon
+Male,Second_Wealth_quintile,Rural_Residence,4,4,5,Gabon
+Female,Second_Wealth_quintile,Urban_Residence,4,3,4,Gabon
+Female,Second_Wealth_quintile,Rural_Residence,4,3,5,Gabon
+Male,Middle_Wealth_quintile,Urban_Residence,1,4,4,Gabon
+Male,Middle_Wealth_quintile,Rural_Residence,1,4,5,Gabon
+Female,Middle_Wealth_quintile,Urban_Residence,1,3,4,Gabon
+Female,Middle_Wealth_quintile,Rural_Residence,1,3,5,Gabon
+Male,Fourth_Wealth_quintile,Urban_Residence,2,4,4,Gabon
+Male,Fourth_Wealth_quintile,Rural_Residence,2,4,5,Gabon
+Female,Fourth_Wealth_quintile,Urban_Residence,2,3,4,Gabon
+Female,Fourth_Wealth_quintile,Rural_Residence,2,3,5,Gabon
+Male,Richest_Wealth_quintile,Urban_Residence,3,4,4,Gabon
+Male,Richest_Wealth_quintile,Rural_Residence,3,4,5,Gabon
+Female,Richest_Wealth_quintile,Urban_Residence,3,3,4,Gabon
+Female,Richest_Wealth_quintile,Rural_Residence,3,3,5,Gabon
+Male,Poorest_Wealth_quintile,Urban_Residence,32,28,18,Gambia
+Male,Poorest_Wealth_quintile,Rural_Residence,32,28,35,Gambia
+Female,Poorest_Wealth_quintile,Urban_Residence,32,27,18,Gambia
+Female,Poorest_Wealth_quintile,Rural_Residence,32,27,35,Gambia
+Male,Second_Wealth_quintile,Urban_Residence,34,28,18,Gambia
+Male,Second_Wealth_quintile,Rural_Residence,34,28,35,Gambia
+Female,Second_Wealth_quintile,Urban_Residence,34,27,18,Gambia
+Female,Second_Wealth_quintile,Rural_Residence,34,27,35,Gambia
+Male,Middle_Wealth_quintile,Urban_Residence,32,28,18,Gambia
+Male,Middle_Wealth_quintile,Rural_Residence,32,28,35,Gambia
+Female,Middle_Wealth_quintile,Urban_Residence,32,27,18,Gambia
+Female,Middle_Wealth_quintile,Rural_Residence,32,27,35,Gambia
+Male,Fourth_Wealth_quintile,Urban_Residence,23,28,18,Gambia
+Male,Fourth_Wealth_quintile,Rural_Residence,23,28,35,Gambia
+Female,Fourth_Wealth_quintile,Urban_Residence,23,27,18,Gambia
+Female,Fourth_Wealth_quintile,Rural_Residence,23,27,35,Gambia
+Male,Richest_Wealth_quintile,Urban_Residence,10,28,18,Gambia
+Male,Richest_Wealth_quintile,Rural_Residence,10,28,35,Gambia
+Female,Richest_Wealth_quintile,Urban_Residence,10,27,18,Gambia
+Female,Richest_Wealth_quintile,Rural_Residence,10,27,35,Gambia
+Male,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Georgia
+Male,Poorest_Wealth_quintile,Rural_Residence,2,1,2,Georgia
+Female,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Georgia
+Female,Poorest_Wealth_quintile,Rural_Residence,2,1,2,Georgia
+Male,Second_Wealth_quintile,Urban_Residence,2,1,1,Georgia
+Male,Second_Wealth_quintile,Rural_Residence,2,1,2,Georgia
+Female,Second_Wealth_quintile,Urban_Residence,2,1,1,Georgia
+Female,Second_Wealth_quintile,Rural_Residence,2,1,2,Georgia
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,Georgia
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,2,Georgia
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,Georgia
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,2,Georgia
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Georgia
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,2,Georgia
+Female,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Georgia
+Female,Fourth_Wealth_quintile,Rural_Residence,1,1,2,Georgia
+Male,Richest_Wealth_quintile,Urban_Residence,1,1,1,Georgia
+Male,Richest_Wealth_quintile,Rural_Residence,1,1,2,Georgia
+Female,Richest_Wealth_quintile,Urban_Residence,1,1,1,Georgia
+Female,Richest_Wealth_quintile,Rural_Residence,1,1,2,Georgia
+Male,Poorest_Wealth_quintile,Urban_Residence,16,7,4,Ghana
+Male,Poorest_Wealth_quintile,Rural_Residence,16,7,8,Ghana
+Female,Poorest_Wealth_quintile,Urban_Residence,16,6,4,Ghana
+Female,Poorest_Wealth_quintile,Rural_Residence,16,6,8,Ghana
+Male,Second_Wealth_quintile,Urban_Residence,6,7,4,Ghana
+Male,Second_Wealth_quintile,Rural_Residence,6,7,8,Ghana
+Female,Second_Wealth_quintile,Urban_Residence,6,6,4,Ghana
+Female,Second_Wealth_quintile,Rural_Residence,6,6,8,Ghana
+Male,Middle_Wealth_quintile,Urban_Residence,4,7,4,Ghana
+Male,Middle_Wealth_quintile,Rural_Residence,4,7,8,Ghana
+Female,Middle_Wealth_quintile,Urban_Residence,4,6,4,Ghana
+Female,Middle_Wealth_quintile,Rural_Residence,4,6,8,Ghana
+Male,Fourth_Wealth_quintile,Urban_Residence,3,7,4,Ghana
+Male,Fourth_Wealth_quintile,Rural_Residence,3,7,8,Ghana
+Female,Fourth_Wealth_quintile,Urban_Residence,3,6,4,Ghana
+Female,Fourth_Wealth_quintile,Rural_Residence,3,6,8,Ghana
+Male,Richest_Wealth_quintile,Urban_Residence,1,7,4,Ghana
+Male,Richest_Wealth_quintile,Rural_Residence,1,7,8,Ghana
+Female,Richest_Wealth_quintile,Urban_Residence,1,6,4,Ghana
+Female,Richest_Wealth_quintile,Rural_Residence,1,6,8,Ghana
+Male,Poorest_Wealth_quintile,Urban_Residence,9,5,4,Guatemala
+Male,Poorest_Wealth_quintile,Rural_Residence,9,5,6,Guatemala
+Female,Poorest_Wealth_quintile,Urban_Residence,9,6,4,Guatemala
+Female,Poorest_Wealth_quintile,Rural_Residence,9,6,6,Guatemala
+Male,Second_Wealth_quintile,Urban_Residence,7,5,4,Guatemala
+Male,Second_Wealth_quintile,Rural_Residence,7,5,6,Guatemala
+Female,Second_Wealth_quintile,Urban_Residence,7,6,4,Guatemala
+Female,Second_Wealth_quintile,Rural_Residence,7,6,6,Guatemala
+Male,Middle_Wealth_quintile,Urban_Residence,5,5,4,Guatemala
+Male,Middle_Wealth_quintile,Rural_Residence,5,5,6,Guatemala
+Female,Middle_Wealth_quintile,Urban_Residence,5,6,4,Guatemala
+Female,Middle_Wealth_quintile,Rural_Residence,5,6,6,Guatemala
+Male,Fourth_Wealth_quintile,Urban_Residence,2,5,4,Guatemala
+Male,Fourth_Wealth_quintile,Rural_Residence,2,5,6,Guatemala
+Female,Fourth_Wealth_quintile,Urban_Residence,2,6,4,Guatemala
+Female,Fourth_Wealth_quintile,Rural_Residence,2,6,6,Guatemala
+Male,Richest_Wealth_quintile,Urban_Residence,2,5,4,Guatemala
+Male,Richest_Wealth_quintile,Rural_Residence,2,5,6,Guatemala
+Female,Richest_Wealth_quintile,Urban_Residence,2,6,4,Guatemala
+Female,Richest_Wealth_quintile,Rural_Residence,2,6,6,Guatemala
+Male,Poorest_Wealth_quintile,Urban_Residence,55,31,14,Guinea
+Male,Poorest_Wealth_quintile,Rural_Residence,55,31,44,Guinea
+Female,Poorest_Wealth_quintile,Urban_Residence,55,37,14,Guinea
+Female,Poorest_Wealth_quintile,Rural_Residence,55,37,44,Guinea
+Male,Second_Wealth_quintile,Urban_Residence,43,31,14,Guinea
+Male,Second_Wealth_quintile,Rural_Residence,43,31,44,Guinea
+Female,Second_Wealth_quintile,Urban_Residence,43,37,14,Guinea
+Female,Second_Wealth_quintile,Rural_Residence,43,37,44,Guinea
+Male,Middle_Wealth_quintile,Urban_Residence,38,31,14,Guinea
+Male,Middle_Wealth_quintile,Rural_Residence,38,31,44,Guinea
+Female,Middle_Wealth_quintile,Urban_Residence,38,37,14,Guinea
+Female,Middle_Wealth_quintile,Rural_Residence,38,37,44,Guinea
+Male,Fourth_Wealth_quintile,Urban_Residence,22,31,14,Guinea
+Male,Fourth_Wealth_quintile,Rural_Residence,22,31,44,Guinea
+Female,Fourth_Wealth_quintile,Urban_Residence,22,37,14,Guinea
+Female,Fourth_Wealth_quintile,Rural_Residence,22,37,44,Guinea
+Male,Richest_Wealth_quintile,Urban_Residence,11,31,14,Guinea
+Male,Richest_Wealth_quintile,Rural_Residence,11,31,44,Guinea
+Female,Richest_Wealth_quintile,Urban_Residence,11,37,14,Guinea
+Female,Richest_Wealth_quintile,Rural_Residence,11,37,44,Guinea
+Male,Poorest_Wealth_quintile,Urban_Residence,38,29,11,Guinea-Bissau
+Male,Poorest_Wealth_quintile,Rural_Residence,38,29,36,Guinea-Bissau
+Female,Poorest_Wealth_quintile,Urban_Residence,38,26,11,Guinea-Bissau
+Female,Poorest_Wealth_quintile,Rural_Residence,38,26,36,Guinea-Bissau
+Male,Second_Wealth_quintile,Urban_Residence,39,29,11,Guinea-Bissau
+Male,Second_Wealth_quintile,Rural_Residence,39,29,36,Guinea-Bissau
+Female,Second_Wealth_quintile,Urban_Residence,39,26,11,Guinea-Bissau
+Female,Second_Wealth_quintile,Rural_Residence,39,26,36,Guinea-Bissau
+Male,Middle_Wealth_quintile,Urban_Residence,34,29,11,Guinea-Bissau
+Male,Middle_Wealth_quintile,Rural_Residence,34,29,36,Guinea-Bissau
+Female,Middle_Wealth_quintile,Urban_Residence,34,26,11,Guinea-Bissau
+Female,Middle_Wealth_quintile,Rural_Residence,34,26,36,Guinea-Bissau
+Male,Fourth_Wealth_quintile,Urban_Residence,19,29,11,Guinea-Bissau
+Male,Fourth_Wealth_quintile,Rural_Residence,19,29,36,Guinea-Bissau
+Female,Fourth_Wealth_quintile,Urban_Residence,19,26,11,Guinea-Bissau
+Female,Fourth_Wealth_quintile,Rural_Residence,19,26,36,Guinea-Bissau
+Male,Richest_Wealth_quintile,Urban_Residence,6,29,11,Guinea-Bissau
+Male,Richest_Wealth_quintile,Rural_Residence,6,29,36,Guinea-Bissau
+Female,Richest_Wealth_quintile,Urban_Residence,6,26,11,Guinea-Bissau
+Female,Richest_Wealth_quintile,Rural_Residence,6,26,36,Guinea-Bissau
+Male,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Guyana
+Male,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Guyana
+Female,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Guyana
+Female,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Guyana
+Male,Second_Wealth_quintile,Urban_Residence,0,1,1,Guyana
+Male,Second_Wealth_quintile,Rural_Residence,0,1,1,Guyana
+Female,Second_Wealth_quintile,Urban_Residence,0,1,1,Guyana
+Female,Second_Wealth_quintile,Rural_Residence,0,1,1,Guyana
+Male,Middle_Wealth_quintile,Urban_Residence,0,1,1,Guyana
+Male,Middle_Wealth_quintile,Rural_Residence,0,1,1,Guyana
+Female,Middle_Wealth_quintile,Urban_Residence,0,1,1,Guyana
+Female,Middle_Wealth_quintile,Rural_Residence,0,1,1,Guyana
+Male,Fourth_Wealth_quintile,Urban_Residence,0,1,1,Guyana
+Male,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Guyana
+Female,Fourth_Wealth_quintile,Urban_Residence,0,1,1,Guyana
+Female,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Guyana
+Male,Richest_Wealth_quintile,Urban_Residence,1,1,1,Guyana
+Male,Richest_Wealth_quintile,Rural_Residence,1,1,1,Guyana
+Female,Richest_Wealth_quintile,Urban_Residence,1,1,1,Guyana
+Female,Richest_Wealth_quintile,Rural_Residence,1,1,1,Guyana
+Male,Poorest_Wealth_quintile,Urban_Residence,21,9,4,Haiti
+Male,Poorest_Wealth_quintile,Rural_Residence,21,9,11,Haiti
+Female,Poorest_Wealth_quintile,Urban_Residence,21,8,4,Haiti
+Female,Poorest_Wealth_quintile,Rural_Residence,21,8,11,Haiti
+Male,Second_Wealth_quintile,Urban_Residence,8,9,4,Haiti
+Male,Second_Wealth_quintile,Rural_Residence,8,9,11,Haiti
+Female,Second_Wealth_quintile,Urban_Residence,8,8,4,Haiti
+Female,Second_Wealth_quintile,Rural_Residence,8,8,11,Haiti
+Male,Middle_Wealth_quintile,Urban_Residence,4,9,4,Haiti
+Male,Middle_Wealth_quintile,Rural_Residence,4,9,11,Haiti
+Female,Middle_Wealth_quintile,Urban_Residence,4,8,4,Haiti
+Female,Middle_Wealth_quintile,Rural_Residence,4,8,11,Haiti
+Male,Fourth_Wealth_quintile,Urban_Residence,3,9,4,Haiti
+Male,Fourth_Wealth_quintile,Rural_Residence,3,9,11,Haiti
+Female,Fourth_Wealth_quintile,Urban_Residence,3,8,4,Haiti
+Female,Fourth_Wealth_quintile,Rural_Residence,3,8,11,Haiti
+Male,Richest_Wealth_quintile,Urban_Residence,2,9,4,Haiti
+Male,Richest_Wealth_quintile,Rural_Residence,2,9,11,Haiti
+Female,Richest_Wealth_quintile,Urban_Residence,2,8,4,Haiti
+Female,Richest_Wealth_quintile,Rural_Residence,2,8,11,Haiti
+Male,Poorest_Wealth_quintile,Urban_Residence,7,7,6,Honduras
+Male,Poorest_Wealth_quintile,Rural_Residence,7,7,7,Honduras
+Female,Poorest_Wealth_quintile,Urban_Residence,7,6,6,Honduras
+Female,Poorest_Wealth_quintile,Rural_Residence,7,6,7,Honduras
+Male,Second_Wealth_quintile,Urban_Residence,5,7,6,Honduras
+Male,Second_Wealth_quintile,Rural_Residence,5,7,7,Honduras
+Female,Second_Wealth_quintile,Urban_Residence,5,6,6,Honduras
+Female,Second_Wealth_quintile,Rural_Residence,5,6,7,Honduras
+Male,Middle_Wealth_quintile,Urban_Residence,4,7,6,Honduras
+Male,Middle_Wealth_quintile,Rural_Residence,4,7,7,Honduras
+Female,Middle_Wealth_quintile,Urban_Residence,4,6,6,Honduras
+Female,Middle_Wealth_quintile,Rural_Residence,4,6,7,Honduras
+Male,Fourth_Wealth_quintile,Urban_Residence,5,7,6,Honduras
+Male,Fourth_Wealth_quintile,Rural_Residence,5,7,7,Honduras
+Female,Fourth_Wealth_quintile,Urban_Residence,5,6,6,Honduras
+Female,Fourth_Wealth_quintile,Rural_Residence,5,6,7,Honduras
+Male,Richest_Wealth_quintile,Urban_Residence,14,7,6,Honduras
+Male,Richest_Wealth_quintile,Rural_Residence,14,7,7,Honduras
+Female,Richest_Wealth_quintile,Urban_Residence,14,6,6,Honduras
+Female,Richest_Wealth_quintile,Rural_Residence,14,6,7,Honduras
+Male,Poorest_Wealth_quintile,Urban_Residence,13,6,4,India
+Male,Poorest_Wealth_quintile,Rural_Residence,13,6,7,India
+Female,Poorest_Wealth_quintile,Urban_Residence,13,6,4,India
+Female,Poorest_Wealth_quintile,Rural_Residence,13,6,7,India
+Male,Second_Wealth_quintile,Urban_Residence,6,6,4,India
+Male,Second_Wealth_quintile,Rural_Residence,6,6,7,India
+Female,Second_Wealth_quintile,Urban_Residence,6,6,4,India
+Female,Second_Wealth_quintile,Rural_Residence,6,6,7,India
+Male,Middle_Wealth_quintile,Urban_Residence,4,6,4,India
+Male,Middle_Wealth_quintile,Rural_Residence,4,6,7,India
+Female,Middle_Wealth_quintile,Urban_Residence,4,6,4,India
+Female,Middle_Wealth_quintile,Rural_Residence,4,6,7,India
+Male,Fourth_Wealth_quintile,Urban_Residence,3,6,4,India
+Male,Fourth_Wealth_quintile,Rural_Residence,3,6,7,India
+Female,Fourth_Wealth_quintile,Urban_Residence,3,6,4,India
+Female,Fourth_Wealth_quintile,Rural_Residence,3,6,7,India
+Male,Richest_Wealth_quintile,Urban_Residence,1,6,4,India
+Male,Richest_Wealth_quintile,Rural_Residence,1,6,7,India
+Female,Richest_Wealth_quintile,Urban_Residence,1,6,4,India
+Female,Richest_Wealth_quintile,Rural_Residence,1,6,7,India
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,0,Indonesia
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Indonesia
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,0,Indonesia
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Indonesia
+Male,Second_Wealth_quintile,Urban_Residence,1,1,0,Indonesia
+Male,Second_Wealth_quintile,Rural_Residence,1,1,1,Indonesia
+Female,Second_Wealth_quintile,Urban_Residence,1,1,0,Indonesia
+Female,Second_Wealth_quintile,Rural_Residence,1,1,1,Indonesia
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,0,Indonesia
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,Indonesia
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,0,Indonesia
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,1,Indonesia
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,0,Indonesia
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Indonesia
+Female,Fourth_Wealth_quintile,Urban_Residence,1,1,0,Indonesia
+Female,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Indonesia
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,0,Indonesia
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Indonesia
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,0,Indonesia
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,1,Indonesia
+Male,Poorest_Wealth_quintile,Urban_Residence,16,7,7,Iraq
+Male,Poorest_Wealth_quintile,Rural_Residence,16,7,11,Iraq
+Female,Poorest_Wealth_quintile,Urban_Residence,16,10,7,Iraq
+Female,Poorest_Wealth_quintile,Rural_Residence,16,10,11,Iraq
+Male,Second_Wealth_quintile,Urban_Residence,8,7,7,Iraq
+Male,Second_Wealth_quintile,Rural_Residence,8,7,11,Iraq
+Female,Second_Wealth_quintile,Urban_Residence,8,10,7,Iraq
+Female,Second_Wealth_quintile,Rural_Residence,8,10,11,Iraq
+Male,Middle_Wealth_quintile,Urban_Residence,8,7,7,Iraq
+Male,Middle_Wealth_quintile,Rural_Residence,8,7,11,Iraq
+Female,Middle_Wealth_quintile,Urban_Residence,8,10,7,Iraq
+Female,Middle_Wealth_quintile,Rural_Residence,8,10,11,Iraq
+Male,Fourth_Wealth_quintile,Urban_Residence,4,7,7,Iraq
+Male,Fourth_Wealth_quintile,Rural_Residence,4,7,11,Iraq
+Female,Fourth_Wealth_quintile,Urban_Residence,4,10,7,Iraq
+Female,Fourth_Wealth_quintile,Rural_Residence,4,10,11,Iraq
+Male,Richest_Wealth_quintile,Urban_Residence,3,7,7,Iraq
+Male,Richest_Wealth_quintile,Rural_Residence,3,7,11,Iraq
+Female,Richest_Wealth_quintile,Urban_Residence,3,10,7,Iraq
+Female,Richest_Wealth_quintile,Rural_Residence,3,10,11,Iraq
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,0,Jamaica
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Jamaica
+Female,Poorest_Wealth_quintile,Urban_Residence,1,0,0,Jamaica
+Female,Poorest_Wealth_quintile,Rural_Residence,1,0,1,Jamaica
+Male,Second_Wealth_quintile,Urban_Residence,0,1,0,Jamaica
+Male,Second_Wealth_quintile,Rural_Residence,0,1,1,Jamaica
+Female,Second_Wealth_quintile,Urban_Residence,0,0,0,Jamaica
+Female,Second_Wealth_quintile,Rural_Residence,0,0,1,Jamaica
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,0,Jamaica
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,Jamaica
+Female,Middle_Wealth_quintile,Urban_Residence,1,0,0,Jamaica
+Female,Middle_Wealth_quintile,Rural_Residence,1,0,1,Jamaica
+Male,Fourth_Wealth_quintile,Urban_Residence,0,1,0,Jamaica
+Male,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Jamaica
+Female,Fourth_Wealth_quintile,Urban_Residence,0,0,0,Jamaica
+Female,Fourth_Wealth_quintile,Rural_Residence,0,0,1,Jamaica
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,0,Jamaica
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Jamaica
+Female,Richest_Wealth_quintile,Urban_Residence,0,0,0,Jamaica
+Female,Richest_Wealth_quintile,Rural_Residence,0,0,1,Jamaica
+Male,Poorest_Wealth_quintile,Urban_Residence,4,3,3,Jordan
+Male,Poorest_Wealth_quintile,Rural_Residence,4,3,2,Jordan
+Female,Poorest_Wealth_quintile,Urban_Residence,4,2,3,Jordan
+Female,Poorest_Wealth_quintile,Rural_Residence,4,2,2,Jordan
+Male,Second_Wealth_quintile,Urban_Residence,2,3,3,Jordan
+Male,Second_Wealth_quintile,Rural_Residence,2,3,2,Jordan
+Female,Second_Wealth_quintile,Urban_Residence,2,2,3,Jordan
+Female,Second_Wealth_quintile,Rural_Residence,2,2,2,Jordan
+Male,Middle_Wealth_quintile,Urban_Residence,2,3,3,Jordan
+Male,Middle_Wealth_quintile,Rural_Residence,2,3,2,Jordan
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,3,Jordan
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,2,Jordan
+Male,Fourth_Wealth_quintile,Urban_Residence,3,3,3,Jordan
+Male,Fourth_Wealth_quintile,Rural_Residence,3,3,2,Jordan
+Female,Fourth_Wealth_quintile,Urban_Residence,3,2,3,Jordan
+Female,Fourth_Wealth_quintile,Rural_Residence,3,2,2,Jordan
+Male,Richest_Wealth_quintile,Urban_Residence,2,3,3,Jordan
+Male,Richest_Wealth_quintile,Rural_Residence,2,3,2,Jordan
+Female,Richest_Wealth_quintile,Urban_Residence,2,2,3,Jordan
+Female,Richest_Wealth_quintile,Rural_Residence,2,2,2,Jordan
+Male,Poorest_Wealth_quintile,Urban_Residence,0,0,1,Kazakhstan
+Male,Poorest_Wealth_quintile,Rural_Residence,0,0,0,Kazakhstan
+Female,Poorest_Wealth_quintile,Urban_Residence,0,0,1,Kazakhstan
+Female,Poorest_Wealth_quintile,Rural_Residence,0,0,0,Kazakhstan
+Male,Second_Wealth_quintile,Urban_Residence,0,0,1,Kazakhstan
+Male,Second_Wealth_quintile,Rural_Residence,0,0,0,Kazakhstan
+Female,Second_Wealth_quintile,Urban_Residence,0,0,1,Kazakhstan
+Female,Second_Wealth_quintile,Rural_Residence,0,0,0,Kazakhstan
+Male,Middle_Wealth_quintile,Urban_Residence,1,0,1,Kazakhstan
+Male,Middle_Wealth_quintile,Rural_Residence,1,0,0,Kazakhstan
+Female,Middle_Wealth_quintile,Urban_Residence,1,0,1,Kazakhstan
+Female,Middle_Wealth_quintile,Rural_Residence,1,0,0,Kazakhstan
+Male,Fourth_Wealth_quintile,Urban_Residence,1,0,1,Kazakhstan
+Male,Fourth_Wealth_quintile,Rural_Residence,1,0,0,Kazakhstan
+Female,Fourth_Wealth_quintile,Urban_Residence,1,0,1,Kazakhstan
+Female,Fourth_Wealth_quintile,Rural_Residence,1,0,0,Kazakhstan
+Male,Richest_Wealth_quintile,Urban_Residence,1,0,1,Kazakhstan
+Male,Richest_Wealth_quintile,Rural_Residence,1,0,0,Kazakhstan
+Female,Richest_Wealth_quintile,Urban_Residence,1,0,1,Kazakhstan
+Female,Richest_Wealth_quintile,Rural_Residence,1,0,0,Kazakhstan
+Male,Poorest_Wealth_quintile,Urban_Residence,14,5,3,Kenya
+Male,Poorest_Wealth_quintile,Rural_Residence,14,5,5,Kenya
+Female,Poorest_Wealth_quintile,Urban_Residence,14,5,3,Kenya
+Female,Poorest_Wealth_quintile,Rural_Residence,14,5,5,Kenya
+Male,Second_Wealth_quintile,Urban_Residence,2,5,3,Kenya
+Male,Second_Wealth_quintile,Rural_Residence,2,5,5,Kenya
+Female,Second_Wealth_quintile,Urban_Residence,2,5,3,Kenya
+Female,Second_Wealth_quintile,Rural_Residence,2,5,5,Kenya
+Male,Middle_Wealth_quintile,Urban_Residence,1,5,3,Kenya
+Male,Middle_Wealth_quintile,Rural_Residence,1,5,5,Kenya
+Female,Middle_Wealth_quintile,Urban_Residence,1,5,3,Kenya
+Female,Middle_Wealth_quintile,Rural_Residence,1,5,5,Kenya
+Male,Fourth_Wealth_quintile,Urban_Residence,2,5,3,Kenya
+Male,Fourth_Wealth_quintile,Rural_Residence,2,5,5,Kenya
+Female,Fourth_Wealth_quintile,Urban_Residence,2,5,3,Kenya
+Female,Fourth_Wealth_quintile,Rural_Residence,2,5,5,Kenya
+Male,Richest_Wealth_quintile,Urban_Residence,2,5,3,Kenya
+Male,Richest_Wealth_quintile,Rural_Residence,2,5,5,Kenya
+Female,Richest_Wealth_quintile,Urban_Residence,2,5,3,Kenya
+Female,Richest_Wealth_quintile,Rural_Residence,2,5,5,Kenya
+Male,Poorest_Wealth_quintile,Urban_Residence,3,4,4,Kiribati
+Male,Poorest_Wealth_quintile,Rural_Residence,3,4,2,Kiribati
+Female,Poorest_Wealth_quintile,Urban_Residence,3,2,4,Kiribati
+Female,Poorest_Wealth_quintile,Rural_Residence,3,2,2,Kiribati
+Male,Second_Wealth_quintile,Urban_Residence,2,4,4,Kiribati
+Male,Second_Wealth_quintile,Rural_Residence,2,4,2,Kiribati
+Female,Second_Wealth_quintile,Urban_Residence,2,2,4,Kiribati
+Female,Second_Wealth_quintile,Rural_Residence,2,2,2,Kiribati
+Male,Middle_Wealth_quintile,Urban_Residence,4,4,4,Kiribati
+Male,Middle_Wealth_quintile,Rural_Residence,4,4,2,Kiribati
+Female,Middle_Wealth_quintile,Urban_Residence,4,2,4,Kiribati
+Female,Middle_Wealth_quintile,Rural_Residence,4,2,2,Kiribati
+Male,Fourth_Wealth_quintile,Urban_Residence,4,4,4,Kiribati
+Male,Fourth_Wealth_quintile,Rural_Residence,4,4,2,Kiribati
+Female,Fourth_Wealth_quintile,Urban_Residence,4,2,4,Kiribati
+Female,Fourth_Wealth_quintile,Rural_Residence,4,2,2,Kiribati
+Male,Richest_Wealth_quintile,Urban_Residence,2,4,4,Kiribati
+Male,Richest_Wealth_quintile,Rural_Residence,2,4,2,Kiribati
+Female,Richest_Wealth_quintile,Urban_Residence,2,2,4,Kiribati
+Female,Richest_Wealth_quintile,Rural_Residence,2,2,2,Kiribati
+Male,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Kyrgyzstan
+Male,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Kyrgyzstan
+Female,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Kyrgyzstan
+Female,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Kyrgyzstan
+Male,Second_Wealth_quintile,Urban_Residence,2,1,1,Kyrgyzstan
+Male,Second_Wealth_quintile,Rural_Residence,2,1,1,Kyrgyzstan
+Female,Second_Wealth_quintile,Urban_Residence,2,1,1,Kyrgyzstan
+Female,Second_Wealth_quintile,Rural_Residence,2,1,1,Kyrgyzstan
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,Kyrgyzstan
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,Kyrgyzstan
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,Kyrgyzstan
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,1,Kyrgyzstan
+Male,Fourth_Wealth_quintile,Urban_Residence,0,1,1,Kyrgyzstan
+Male,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Kyrgyzstan
+Female,Fourth_Wealth_quintile,Urban_Residence,0,1,1,Kyrgyzstan
+Female,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Kyrgyzstan
+Male,Richest_Wealth_quintile,Urban_Residence,1,1,1,Kyrgyzstan
+Male,Richest_Wealth_quintile,Rural_Residence,1,1,1,Kyrgyzstan
+Female,Richest_Wealth_quintile,Urban_Residence,1,1,1,Kyrgyzstan
+Female,Richest_Wealth_quintile,Rural_Residence,1,1,1,Kyrgyzstan
+Male,Poorest_Wealth_quintile,Urban_Residence,19,8,3,Lao People's Democratic Republic
+Male,Poorest_Wealth_quintile,Rural_Residence,19,8,10,Lao People's Democratic Republic
+Female,Poorest_Wealth_quintile,Urban_Residence,19,8,3,Lao People's Democratic Republic
+Female,Poorest_Wealth_quintile,Rural_Residence,19,8,10,Lao People's Democratic Republic
+Male,Second_Wealth_quintile,Urban_Residence,7,8,3,Lao People's Democratic Republic
+Male,Second_Wealth_quintile,Rural_Residence,7,8,10,Lao People's Democratic Republic
+Female,Second_Wealth_quintile,Urban_Residence,7,8,3,Lao People's Democratic Republic
+Female,Second_Wealth_quintile,Rural_Residence,7,8,10,Lao People's Democratic Republic
+Male,Middle_Wealth_quintile,Urban_Residence,4,8,3,Lao People's Democratic Republic
+Male,Middle_Wealth_quintile,Rural_Residence,4,8,10,Lao People's Democratic Republic
+Female,Middle_Wealth_quintile,Urban_Residence,4,8,3,Lao People's Democratic Republic
+Female,Middle_Wealth_quintile,Rural_Residence,4,8,10,Lao People's Democratic Republic
+Male,Fourth_Wealth_quintile,Urban_Residence,2,8,3,Lao People's Democratic Republic
+Male,Fourth_Wealth_quintile,Rural_Residence,2,8,10,Lao People's Democratic Republic
+Female,Fourth_Wealth_quintile,Urban_Residence,2,8,3,Lao People's Democratic Republic
+Female,Fourth_Wealth_quintile,Rural_Residence,2,8,10,Lao People's Democratic Republic
+Male,Richest_Wealth_quintile,Urban_Residence,1,8,3,Lao People's Democratic Republic
+Male,Richest_Wealth_quintile,Rural_Residence,1,8,10,Lao People's Democratic Republic
+Female,Richest_Wealth_quintile,Urban_Residence,1,8,3,Lao People's Democratic Republic
+Female,Richest_Wealth_quintile,Rural_Residence,1,8,10,Lao People's Democratic Republic
+Male,Poorest_Wealth_quintile,Urban_Residence,5,4,3,Lesotho
+Male,Poorest_Wealth_quintile,Rural_Residence,5,4,3,Lesotho
+Female,Poorest_Wealth_quintile,Urban_Residence,5,2,3,Lesotho
+Female,Poorest_Wealth_quintile,Rural_Residence,5,2,3,Lesotho
+Male,Second_Wealth_quintile,Urban_Residence,2,4,3,Lesotho
+Male,Second_Wealth_quintile,Rural_Residence,2,4,3,Lesotho
+Female,Second_Wealth_quintile,Urban_Residence,2,2,3,Lesotho
+Female,Second_Wealth_quintile,Rural_Residence,2,2,3,Lesotho
+Male,Middle_Wealth_quintile,Urban_Residence,2,4,3,Lesotho
+Male,Middle_Wealth_quintile,Rural_Residence,2,4,3,Lesotho
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,3,Lesotho
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,3,Lesotho
+Male,Fourth_Wealth_quintile,Urban_Residence,3,4,3,Lesotho
+Male,Fourth_Wealth_quintile,Rural_Residence,3,4,3,Lesotho
+Female,Fourth_Wealth_quintile,Urban_Residence,3,2,3,Lesotho
+Female,Fourth_Wealth_quintile,Rural_Residence,3,2,3,Lesotho
+Male,Richest_Wealth_quintile,Urban_Residence,1,4,3,Lesotho
+Male,Richest_Wealth_quintile,Rural_Residence,1,4,3,Lesotho
+Female,Richest_Wealth_quintile,Urban_Residence,1,2,3,Lesotho
+Female,Richest_Wealth_quintile,Rural_Residence,1,2,3,Lesotho
+Male,Poorest_Wealth_quintile,Urban_Residence,32,18,14,Liberia
+Male,Poorest_Wealth_quintile,Rural_Residence,32,18,23,Liberia
+Female,Poorest_Wealth_quintile,Urban_Residence,32,17,14,Liberia
+Female,Poorest_Wealth_quintile,Rural_Residence,32,17,23,Liberia
+Male,Second_Wealth_quintile,Urban_Residence,23,18,14,Liberia
+Male,Second_Wealth_quintile,Rural_Residence,23,18,23,Liberia
+Female,Second_Wealth_quintile,Urban_Residence,23,17,14,Liberia
+Female,Second_Wealth_quintile,Rural_Residence,23,17,23,Liberia
+Male,Middle_Wealth_quintile,Urban_Residence,16,18,14,Liberia
+Male,Middle_Wealth_quintile,Rural_Residence,16,18,23,Liberia
+Female,Middle_Wealth_quintile,Urban_Residence,16,17,14,Liberia
+Female,Middle_Wealth_quintile,Rural_Residence,16,17,23,Liberia
+Male,Fourth_Wealth_quintile,Urban_Residence,10,18,14,Liberia
+Male,Fourth_Wealth_quintile,Rural_Residence,10,18,23,Liberia
+Female,Fourth_Wealth_quintile,Urban_Residence,10,17,14,Liberia
+Female,Fourth_Wealth_quintile,Rural_Residence,10,17,23,Liberia
+Male,Richest_Wealth_quintile,Urban_Residence,7,18,14,Liberia
+Male,Richest_Wealth_quintile,Rural_Residence,7,18,23,Liberia
+Female,Richest_Wealth_quintile,Urban_Residence,7,17,14,Liberia
+Female,Richest_Wealth_quintile,Rural_Residence,7,17,23,Liberia
+Male,Poorest_Wealth_quintile,Urban_Residence,44,24,11,Madagascar
+Male,Poorest_Wealth_quintile,Rural_Residence,44,24,24,Madagascar
+Female,Poorest_Wealth_quintile,Urban_Residence,44,19,11,Madagascar
+Female,Poorest_Wealth_quintile,Rural_Residence,44,19,24,Madagascar
+Male,Second_Wealth_quintile,Urban_Residence,30,24,11,Madagascar
+Male,Second_Wealth_quintile,Rural_Residence,30,24,24,Madagascar
+Female,Second_Wealth_quintile,Urban_Residence,30,19,11,Madagascar
+Female,Second_Wealth_quintile,Rural_Residence,30,19,24,Madagascar
+Male,Middle_Wealth_quintile,Urban_Residence,14,24,11,Madagascar
+Male,Middle_Wealth_quintile,Rural_Residence,14,24,24,Madagascar
+Female,Middle_Wealth_quintile,Urban_Residence,14,19,11,Madagascar
+Female,Middle_Wealth_quintile,Rural_Residence,14,19,24,Madagascar
+Male,Fourth_Wealth_quintile,Urban_Residence,7,24,11,Madagascar
+Male,Fourth_Wealth_quintile,Rural_Residence,7,24,24,Madagascar
+Female,Fourth_Wealth_quintile,Urban_Residence,7,19,11,Madagascar
+Female,Fourth_Wealth_quintile,Rural_Residence,7,19,24,Madagascar
+Male,Richest_Wealth_quintile,Urban_Residence,3,24,11,Madagascar
+Male,Richest_Wealth_quintile,Rural_Residence,3,24,24,Madagascar
+Female,Richest_Wealth_quintile,Urban_Residence,3,19,11,Madagascar
+Female,Richest_Wealth_quintile,Rural_Residence,3,19,24,Madagascar
+Male,Poorest_Wealth_quintile,Urban_Residence,10,6,2,Malawi
+Male,Poorest_Wealth_quintile,Rural_Residence,10,6,6,Malawi
+Female,Poorest_Wealth_quintile,Urban_Residence,10,5,2,Malawi
+Female,Poorest_Wealth_quintile,Rural_Residence,10,5,6,Malawi
+Male,Second_Wealth_quintile,Urban_Residence,7,6,2,Malawi
+Male,Second_Wealth_quintile,Rural_Residence,7,6,6,Malawi
+Female,Second_Wealth_quintile,Urban_Residence,7,5,2,Malawi
+Female,Second_Wealth_quintile,Rural_Residence,7,5,6,Malawi
+Male,Middle_Wealth_quintile,Urban_Residence,5,6,2,Malawi
+Male,Middle_Wealth_quintile,Rural_Residence,5,6,6,Malawi
+Female,Middle_Wealth_quintile,Urban_Residence,5,5,2,Malawi
+Female,Middle_Wealth_quintile,Rural_Residence,5,5,6,Malawi
+Male,Fourth_Wealth_quintile,Urban_Residence,3,6,2,Malawi
+Male,Fourth_Wealth_quintile,Rural_Residence,3,6,6,Malawi
+Female,Fourth_Wealth_quintile,Urban_Residence,3,5,2,Malawi
+Female,Fourth_Wealth_quintile,Rural_Residence,3,5,6,Malawi
+Male,Richest_Wealth_quintile,Urban_Residence,2,6,2,Malawi
+Male,Richest_Wealth_quintile,Rural_Residence,2,6,6,Malawi
+Female,Richest_Wealth_quintile,Urban_Residence,2,5,2,Malawi
+Female,Richest_Wealth_quintile,Rural_Residence,2,5,6,Malawi
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Male,Second_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Male,Second_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Female,Second_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Female,Second_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Female,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Female,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Male,Richest_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Male,Richest_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Female,Richest_Wealth_quintile,Urban_Residence,1,1,1,Maldives
+Female,Richest_Wealth_quintile,Rural_Residence,1,1,1,Maldives
+Male,Poorest_Wealth_quintile,Urban_Residence,74,45,18,Mali
+Male,Poorest_Wealth_quintile,Rural_Residence,74,45,55,Mali
+Female,Poorest_Wealth_quintile,Urban_Residence,74,50,18,Mali
+Female,Poorest_Wealth_quintile,Rural_Residence,74,50,55,Mali
+Male,Second_Wealth_quintile,Urban_Residence,59,45,18,Mali
+Male,Second_Wealth_quintile,Rural_Residence,59,45,55,Mali
+Female,Second_Wealth_quintile,Urban_Residence,59,50,18,Mali
+Female,Second_Wealth_quintile,Rural_Residence,59,50,55,Mali
+Male,Middle_Wealth_quintile,Urban_Residence,50,45,18,Mali
+Male,Middle_Wealth_quintile,Rural_Residence,50,45,55,Mali
+Female,Middle_Wealth_quintile,Urban_Residence,50,50,18,Mali
+Female,Middle_Wealth_quintile,Rural_Residence,50,50,55,Mali
+Male,Fourth_Wealth_quintile,Urban_Residence,34,45,18,Mali
+Male,Fourth_Wealth_quintile,Rural_Residence,34,45,55,Mali
+Female,Fourth_Wealth_quintile,Urban_Residence,34,50,18,Mali
+Female,Fourth_Wealth_quintile,Rural_Residence,34,50,55,Mali
+Male,Richest_Wealth_quintile,Urban_Residence,16,45,18,Mali
+Male,Richest_Wealth_quintile,Rural_Residence,16,45,55,Mali
+Female,Richest_Wealth_quintile,Urban_Residence,16,50,18,Mali
+Female,Richest_Wealth_quintile,Rural_Residence,16,50,55,Mali
+Male,Poorest_Wealth_quintile,Urban_Residence,58,44,29,Mauritania
+Male,Poorest_Wealth_quintile,Rural_Residence,58,44,51,Mauritania
+Female,Poorest_Wealth_quintile,Urban_Residence,58,40,29,Mauritania
+Female,Poorest_Wealth_quintile,Rural_Residence,58,40,51,Mauritania
+Male,Second_Wealth_quintile,Urban_Residence,53,44,29,Mauritania
+Male,Second_Wealth_quintile,Rural_Residence,53,44,51,Mauritania
+Female,Second_Wealth_quintile,Urban_Residence,53,40,29,Mauritania
+Female,Second_Wealth_quintile,Rural_Residence,53,40,51,Mauritania
+Male,Middle_Wealth_quintile,Urban_Residence,39,44,29,Mauritania
+Male,Middle_Wealth_quintile,Rural_Residence,39,44,51,Mauritania
+Female,Middle_Wealth_quintile,Urban_Residence,39,40,29,Mauritania
+Female,Middle_Wealth_quintile,Rural_Residence,39,40,51,Mauritania
+Male,Fourth_Wealth_quintile,Urban_Residence,31,44,29,Mauritania
+Male,Fourth_Wealth_quintile,Rural_Residence,31,44,51,Mauritania
+Female,Fourth_Wealth_quintile,Urban_Residence,31,40,29,Mauritania
+Female,Fourth_Wealth_quintile,Rural_Residence,31,40,51,Mauritania
+Male,Richest_Wealth_quintile,Urban_Residence,17,44,29,Mauritania
+Male,Richest_Wealth_quintile,Rural_Residence,17,44,51,Mauritania
+Female,Richest_Wealth_quintile,Urban_Residence,17,40,29,Mauritania
+Female,Richest_Wealth_quintile,Rural_Residence,17,40,51,Mauritania
+Male,Poorest_Wealth_quintile,Urban_Residence,3,5,4,Mongolia
+Male,Poorest_Wealth_quintile,Rural_Residence,3,5,3,Mongolia
+Female,Poorest_Wealth_quintile,Urban_Residence,3,3,4,Mongolia
+Female,Poorest_Wealth_quintile,Rural_Residence,3,3,3,Mongolia
+Male,Second_Wealth_quintile,Urban_Residence,4,5,4,Mongolia
+Male,Second_Wealth_quintile,Rural_Residence,4,5,3,Mongolia
+Female,Second_Wealth_quintile,Urban_Residence,4,3,4,Mongolia
+Female,Second_Wealth_quintile,Rural_Residence,4,3,3,Mongolia
+Male,Middle_Wealth_quintile,Urban_Residence,4,5,4,Mongolia
+Male,Middle_Wealth_quintile,Rural_Residence,4,5,3,Mongolia
+Female,Middle_Wealth_quintile,Urban_Residence,4,3,4,Mongolia
+Female,Middle_Wealth_quintile,Rural_Residence,4,3,3,Mongolia
+Male,Fourth_Wealth_quintile,Urban_Residence,4,5,4,Mongolia
+Male,Fourth_Wealth_quintile,Rural_Residence,4,5,3,Mongolia
+Female,Fourth_Wealth_quintile,Urban_Residence,4,3,4,Mongolia
+Female,Fourth_Wealth_quintile,Rural_Residence,4,3,3,Mongolia
+Male,Richest_Wealth_quintile,Urban_Residence,3,5,4,Mongolia
+Male,Richest_Wealth_quintile,Rural_Residence,3,5,3,Mongolia
+Female,Richest_Wealth_quintile,Urban_Residence,3,3,4,Mongolia
+Female,Richest_Wealth_quintile,Rural_Residence,3,3,3,Mongolia
+Male,Poorest_Wealth_quintile,Urban_Residence,8,4,4,Montenegro
+Male,Poorest_Wealth_quintile,Rural_Residence,8,4,3,Montenegro
+Female,Poorest_Wealth_quintile,Urban_Residence,8,3,4,Montenegro
+Female,Poorest_Wealth_quintile,Rural_Residence,8,3,3,Montenegro
+Male,Second_Wealth_quintile,Urban_Residence,2,4,4,Montenegro
+Male,Second_Wealth_quintile,Rural_Residence,2,4,3,Montenegro
+Female,Second_Wealth_quintile,Urban_Residence,2,3,4,Montenegro
+Female,Second_Wealth_quintile,Rural_Residence,2,3,3,Montenegro
+Male,Middle_Wealth_quintile,Urban_Residence,2,4,4,Montenegro
+Male,Middle_Wealth_quintile,Rural_Residence,2,4,3,Montenegro
+Female,Middle_Wealth_quintile,Urban_Residence,2,3,4,Montenegro
+Female,Middle_Wealth_quintile,Rural_Residence,2,3,3,Montenegro
+Male,Fourth_Wealth_quintile,Urban_Residence,3,4,4,Montenegro
+Male,Fourth_Wealth_quintile,Rural_Residence,3,4,3,Montenegro
+Female,Fourth_Wealth_quintile,Urban_Residence,3,3,4,Montenegro
+Female,Fourth_Wealth_quintile,Rural_Residence,3,3,3,Montenegro
+Male,Richest_Wealth_quintile,Urban_Residence,1,4,4,Montenegro
+Male,Richest_Wealth_quintile,Rural_Residence,1,4,3,Montenegro
+Female,Richest_Wealth_quintile,Urban_Residence,1,3,4,Montenegro
+Female,Richest_Wealth_quintile,Rural_Residence,1,3,3,Montenegro
+Male,Poorest_Wealth_quintile,Urban_Residence,36,23,12,Mozambique
+Male,Poorest_Wealth_quintile,Rural_Residence,36,23,27,Mozambique
+Female,Poorest_Wealth_quintile,Urban_Residence,36,23,12,Mozambique
+Female,Poorest_Wealth_quintile,Rural_Residence,36,23,27,Mozambique
+Male,Second_Wealth_quintile,Urban_Residence,32,23,12,Mozambique
+Male,Second_Wealth_quintile,Rural_Residence,32,23,27,Mozambique
+Female,Second_Wealth_quintile,Urban_Residence,32,23,12,Mozambique
+Female,Second_Wealth_quintile,Rural_Residence,32,23,27,Mozambique
+Male,Middle_Wealth_quintile,Urban_Residence,25,23,12,Mozambique
+Male,Middle_Wealth_quintile,Rural_Residence,25,23,27,Mozambique
+Female,Middle_Wealth_quintile,Urban_Residence,25,23,12,Mozambique
+Female,Middle_Wealth_quintile,Rural_Residence,25,23,27,Mozambique
+Male,Fourth_Wealth_quintile,Urban_Residence,16,23,12,Mozambique
+Male,Fourth_Wealth_quintile,Rural_Residence,16,23,27,Mozambique
+Female,Fourth_Wealth_quintile,Urban_Residence,16,23,12,Mozambique
+Female,Fourth_Wealth_quintile,Rural_Residence,16,23,27,Mozambique
+Male,Richest_Wealth_quintile,Urban_Residence,5,23,12,Mozambique
+Male,Richest_Wealth_quintile,Rural_Residence,5,23,27,Mozambique
+Female,Richest_Wealth_quintile,Urban_Residence,5,23,12,Mozambique
+Female,Richest_Wealth_quintile,Rural_Residence,5,23,27,Mozambique
+Male,Poorest_Wealth_quintile,Urban_Residence,14,5,3,Myanmar
+Male,Poorest_Wealth_quintile,Rural_Residence,14,5,7,Myanmar
+Female,Poorest_Wealth_quintile,Urban_Residence,14,7,3,Myanmar
+Female,Poorest_Wealth_quintile,Rural_Residence,14,7,7,Myanmar
+Male,Second_Wealth_quintile,Urban_Residence,5,5,3,Myanmar
+Male,Second_Wealth_quintile,Rural_Residence,5,5,7,Myanmar
+Female,Second_Wealth_quintile,Urban_Residence,5,7,3,Myanmar
+Female,Second_Wealth_quintile,Rural_Residence,5,7,7,Myanmar
+Male,Middle_Wealth_quintile,Urban_Residence,3,5,3,Myanmar
+Male,Middle_Wealth_quintile,Rural_Residence,3,5,7,Myanmar
+Female,Middle_Wealth_quintile,Urban_Residence,3,7,3,Myanmar
+Female,Middle_Wealth_quintile,Rural_Residence,3,7,7,Myanmar
+Male,Fourth_Wealth_quintile,Urban_Residence,3,5,3,Myanmar
+Male,Fourth_Wealth_quintile,Rural_Residence,3,5,7,Myanmar
+Female,Fourth_Wealth_quintile,Urban_Residence,3,7,3,Myanmar
+Female,Fourth_Wealth_quintile,Rural_Residence,3,7,7,Myanmar
+Male,Richest_Wealth_quintile,Urban_Residence,2,5,3,Myanmar
+Male,Richest_Wealth_quintile,Rural_Residence,2,5,7,Myanmar
+Female,Richest_Wealth_quintile,Urban_Residence,2,7,3,Myanmar
+Female,Richest_Wealth_quintile,Rural_Residence,2,7,7,Myanmar
+Male,Poorest_Wealth_quintile,Urban_Residence,8,5,2,Namibia
+Male,Poorest_Wealth_quintile,Rural_Residence,8,5,6,Namibia
+Female,Poorest_Wealth_quintile,Urban_Residence,8,4,2,Namibia
+Female,Poorest_Wealth_quintile,Rural_Residence,8,4,6,Namibia
+Male,Second_Wealth_quintile,Urban_Residence,5,5,2,Namibia
+Male,Second_Wealth_quintile,Rural_Residence,5,5,6,Namibia
+Female,Second_Wealth_quintile,Urban_Residence,5,4,2,Namibia
+Female,Second_Wealth_quintile,Rural_Residence,5,4,6,Namibia
+Male,Middle_Wealth_quintile,Urban_Residence,4,5,2,Namibia
+Male,Middle_Wealth_quintile,Rural_Residence,4,5,6,Namibia
+Female,Middle_Wealth_quintile,Urban_Residence,4,4,2,Namibia
+Female,Middle_Wealth_quintile,Rural_Residence,4,4,6,Namibia
+Male,Fourth_Wealth_quintile,Urban_Residence,2,5,2,Namibia
+Male,Fourth_Wealth_quintile,Rural_Residence,2,5,6,Namibia
+Female,Fourth_Wealth_quintile,Urban_Residence,2,4,2,Namibia
+Female,Fourth_Wealth_quintile,Rural_Residence,2,4,6,Namibia
+Male,Richest_Wealth_quintile,Urban_Residence,1,5,2,Namibia
+Male,Richest_Wealth_quintile,Rural_Residence,1,5,6,Namibia
+Female,Richest_Wealth_quintile,Urban_Residence,1,4,2,Namibia
+Female,Richest_Wealth_quintile,Rural_Residence,1,4,6,Namibia
+Male,Poorest_Wealth_quintile,Urban_Residence,6,5,5,Nepal
+Male,Poorest_Wealth_quintile,Rural_Residence,6,5,6,Nepal
+Female,Poorest_Wealth_quintile,Urban_Residence,6,7,5,Nepal
+Female,Poorest_Wealth_quintile,Rural_Residence,6,7,6,Nepal
+Male,Second_Wealth_quintile,Urban_Residence,6,5,5,Nepal
+Male,Second_Wealth_quintile,Rural_Residence,6,5,6,Nepal
+Female,Second_Wealth_quintile,Urban_Residence,6,7,5,Nepal
+Female,Second_Wealth_quintile,Rural_Residence,6,7,6,Nepal
+Male,Middle_Wealth_quintile,Urban_Residence,8,5,5,Nepal
+Male,Middle_Wealth_quintile,Rural_Residence,8,5,6,Nepal
+Female,Middle_Wealth_quintile,Urban_Residence,8,7,5,Nepal
+Female,Middle_Wealth_quintile,Rural_Residence,8,7,6,Nepal
+Male,Fourth_Wealth_quintile,Urban_Residence,5,5,5,Nepal
+Male,Fourth_Wealth_quintile,Rural_Residence,5,5,6,Nepal
+Female,Fourth_Wealth_quintile,Urban_Residence,5,7,5,Nepal
+Female,Fourth_Wealth_quintile,Rural_Residence,5,7,6,Nepal
+Male,Richest_Wealth_quintile,Urban_Residence,1,5,5,Nepal
+Male,Richest_Wealth_quintile,Rural_Residence,1,5,6,Nepal
+Female,Richest_Wealth_quintile,Urban_Residence,1,7,5,Nepal
+Female,Richest_Wealth_quintile,Rural_Residence,1,7,6,Nepal
+Male,Poorest_Wealth_quintile,Urban_Residence,65,45,17,Niger
+Male,Poorest_Wealth_quintile,Rural_Residence,65,45,55,Niger
+Female,Poorest_Wealth_quintile,Urban_Residence,65,54,17,Niger
+Female,Poorest_Wealth_quintile,Rural_Residence,65,54,55,Niger
+Male,Second_Wealth_quintile,Urban_Residence,60,45,17,Niger
+Male,Second_Wealth_quintile,Rural_Residence,60,45,55,Niger
+Female,Second_Wealth_quintile,Urban_Residence,60,54,17,Niger
+Female,Second_Wealth_quintile,Rural_Residence,60,54,55,Niger
+Male,Middle_Wealth_quintile,Urban_Residence,55,45,17,Niger
+Male,Middle_Wealth_quintile,Rural_Residence,55,45,55,Niger
+Female,Middle_Wealth_quintile,Urban_Residence,55,54,17,Niger
+Female,Middle_Wealth_quintile,Rural_Residence,55,54,55,Niger
+Male,Fourth_Wealth_quintile,Urban_Residence,43,45,17,Niger
+Male,Fourth_Wealth_quintile,Rural_Residence,43,45,55,Niger
+Female,Fourth_Wealth_quintile,Urban_Residence,43,54,17,Niger
+Female,Fourth_Wealth_quintile,Rural_Residence,43,54,55,Niger
+Male,Richest_Wealth_quintile,Urban_Residence,18,45,17,Niger
+Male,Richest_Wealth_quintile,Rural_Residence,18,45,55,Niger
+Female,Richest_Wealth_quintile,Urban_Residence,18,54,17,Niger
+Female,Richest_Wealth_quintile,Rural_Residence,18,54,55,Niger
+Male,Poorest_Wealth_quintile,Urban_Residence,64,27,11,Nigeria
+Male,Poorest_Wealth_quintile,Rural_Residence,64,27,39,Nigeria
+Female,Poorest_Wealth_quintile,Urban_Residence,64,29,11,Nigeria
+Female,Poorest_Wealth_quintile,Rural_Residence,64,29,39,Nigeria
+Male,Second_Wealth_quintile,Urban_Residence,36,27,11,Nigeria
+Male,Second_Wealth_quintile,Rural_Residence,36,27,39,Nigeria
+Female,Second_Wealth_quintile,Urban_Residence,36,29,11,Nigeria
+Female,Second_Wealth_quintile,Rural_Residence,36,29,39,Nigeria
+Male,Middle_Wealth_quintile,Urban_Residence,17,27,11,Nigeria
+Male,Middle_Wealth_quintile,Rural_Residence,17,27,39,Nigeria
+Female,Middle_Wealth_quintile,Urban_Residence,17,29,11,Nigeria
+Female,Middle_Wealth_quintile,Rural_Residence,17,29,39,Nigeria
+Male,Fourth_Wealth_quintile,Urban_Residence,6,27,11,Nigeria
+Male,Fourth_Wealth_quintile,Rural_Residence,6,27,39,Nigeria
+Female,Fourth_Wealth_quintile,Urban_Residence,6,29,11,Nigeria
+Female,Fourth_Wealth_quintile,Rural_Residence,6,29,39,Nigeria
+Male,Richest_Wealth_quintile,Urban_Residence,3,27,11,Nigeria
+Male,Richest_Wealth_quintile,Rural_Residence,3,27,39,Nigeria
+Female,Richest_Wealth_quintile,Urban_Residence,3,29,11,Nigeria
+Female,Richest_Wealth_quintile,Rural_Residence,3,29,39,Nigeria
+Male,Poorest_Wealth_quintile,Urban_Residence,3,2,2,North Macedonia
+Male,Poorest_Wealth_quintile,Rural_Residence,3,2,1,North Macedonia
+Female,Poorest_Wealth_quintile,Urban_Residence,3,1,2,North Macedonia
+Female,Poorest_Wealth_quintile,Rural_Residence,3,1,1,North Macedonia
+Male,Second_Wealth_quintile,Urban_Residence,3,2,2,North Macedonia
+Male,Second_Wealth_quintile,Rural_Residence,3,2,1,North Macedonia
+Female,Second_Wealth_quintile,Urban_Residence,3,1,2,North Macedonia
+Female,Second_Wealth_quintile,Rural_Residence,3,1,1,North Macedonia
+Male,Middle_Wealth_quintile,Urban_Residence,1,2,2,North Macedonia
+Male,Middle_Wealth_quintile,Rural_Residence,1,2,1,North Macedonia
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,2,North Macedonia
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,1,North Macedonia
+Male,Fourth_Wealth_quintile,Urban_Residence,1,2,2,North Macedonia
+Male,Fourth_Wealth_quintile,Rural_Residence,1,2,1,North Macedonia
+Female,Fourth_Wealth_quintile,Urban_Residence,1,1,2,North Macedonia
+Female,Fourth_Wealth_quintile,Rural_Residence,1,1,1,North Macedonia
+Male,Richest_Wealth_quintile,Urban_Residence,0,2,2,North Macedonia
+Male,Richest_Wealth_quintile,Rural_Residence,0,2,1,North Macedonia
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,2,North Macedonia
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,1,North Macedonia
+Male,Poorest_Wealth_quintile,Urban_Residence,50,19,12,Pakistan
+Male,Poorest_Wealth_quintile,Rural_Residence,50,19,28,Pakistan
+Female,Poorest_Wealth_quintile,Urban_Residence,50,27,12,Pakistan
+Female,Poorest_Wealth_quintile,Rural_Residence,50,27,28,Pakistan
+Male,Second_Wealth_quintile,Urban_Residence,24,19,12,Pakistan
+Male,Second_Wealth_quintile,Rural_Residence,24,19,28,Pakistan
+Female,Second_Wealth_quintile,Urban_Residence,24,27,12,Pakistan
+Female,Second_Wealth_quintile,Rural_Residence,24,27,28,Pakistan
+Male,Middle_Wealth_quintile,Urban_Residence,14,19,12,Pakistan
+Male,Middle_Wealth_quintile,Rural_Residence,14,19,28,Pakistan
+Female,Middle_Wealth_quintile,Urban_Residence,14,27,12,Pakistan
+Female,Middle_Wealth_quintile,Rural_Residence,14,27,28,Pakistan
+Male,Fourth_Wealth_quintile,Urban_Residence,8,19,12,Pakistan
+Male,Fourth_Wealth_quintile,Rural_Residence,8,19,28,Pakistan
+Female,Fourth_Wealth_quintile,Urban_Residence,8,27,12,Pakistan
+Female,Fourth_Wealth_quintile,Rural_Residence,8,27,28,Pakistan
+Male,Richest_Wealth_quintile,Urban_Residence,4,19,12,Pakistan
+Male,Richest_Wealth_quintile,Rural_Residence,4,19,28,Pakistan
+Female,Richest_Wealth_quintile,Urban_Residence,4,27,12,Pakistan
+Female,Richest_Wealth_quintile,Rural_Residence,4,27,28,Pakistan
+Male,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Panama
+Male,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Panama
+Female,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Panama
+Female,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Panama
+Male,Second_Wealth_quintile,Urban_Residence,2,1,1,Panama
+Male,Second_Wealth_quintile,Rural_Residence,2,1,1,Panama
+Female,Second_Wealth_quintile,Urban_Residence,2,1,1,Panama
+Female,Second_Wealth_quintile,Rural_Residence,2,1,1,Panama
+Male,Middle_Wealth_quintile,Urban_Residence,0,1,1,Panama
+Male,Middle_Wealth_quintile,Rural_Residence,0,1,1,Panama
+Female,Middle_Wealth_quintile,Urban_Residence,0,1,1,Panama
+Female,Middle_Wealth_quintile,Rural_Residence,0,1,1,Panama
+Male,Fourth_Wealth_quintile,Urban_Residence,0,1,1,Panama
+Male,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Panama
+Female,Fourth_Wealth_quintile,Urban_Residence,0,1,1,Panama
+Female,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Panama
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,1,Panama
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Panama
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,1,Panama
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,1,Panama
+Male,Poorest_Wealth_quintile,Urban_Residence,2,1,0,Paraguay
+Male,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Paraguay
+Female,Poorest_Wealth_quintile,Urban_Residence,2,1,0,Paraguay
+Female,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Paraguay
+Male,Second_Wealth_quintile,Urban_Residence,0,1,0,Paraguay
+Male,Second_Wealth_quintile,Rural_Residence,0,1,1,Paraguay
+Female,Second_Wealth_quintile,Urban_Residence,0,1,0,Paraguay
+Female,Second_Wealth_quintile,Rural_Residence,0,1,1,Paraguay
+Male,Middle_Wealth_quintile,Urban_Residence,0,1,0,Paraguay
+Male,Middle_Wealth_quintile,Rural_Residence,0,1,1,Paraguay
+Female,Middle_Wealth_quintile,Urban_Residence,0,1,0,Paraguay
+Female,Middle_Wealth_quintile,Rural_Residence,0,1,1,Paraguay
+Male,Fourth_Wealth_quintile,Urban_Residence,0,1,0,Paraguay
+Male,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Paraguay
+Female,Fourth_Wealth_quintile,Urban_Residence,0,1,0,Paraguay
+Female,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Paraguay
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,0,Paraguay
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Paraguay
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,0,Paraguay
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,1,Paraguay
+Male,Poorest_Wealth_quintile,Urban_Residence,3,3,3,Peru
+Male,Poorest_Wealth_quintile,Rural_Residence,3,3,2,Peru
+Female,Poorest_Wealth_quintile,Urban_Residence,3,2,3,Peru
+Female,Poorest_Wealth_quintile,Rural_Residence,3,2,2,Peru
+Male,Second_Wealth_quintile,Urban_Residence,3,3,3,Peru
+Male,Second_Wealth_quintile,Rural_Residence,3,3,2,Peru
+Female,Second_Wealth_quintile,Urban_Residence,3,2,3,Peru
+Female,Second_Wealth_quintile,Rural_Residence,3,2,2,Peru
+Male,Middle_Wealth_quintile,Urban_Residence,2,3,3,Peru
+Male,Middle_Wealth_quintile,Rural_Residence,2,3,2,Peru
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,3,Peru
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,2,Peru
+Male,Fourth_Wealth_quintile,Urban_Residence,2,3,3,Peru
+Male,Fourth_Wealth_quintile,Rural_Residence,2,3,2,Peru
+Female,Fourth_Wealth_quintile,Urban_Residence,2,2,3,Peru
+Female,Fourth_Wealth_quintile,Rural_Residence,2,2,2,Peru
+Male,Richest_Wealth_quintile,Urban_Residence,2,3,3,Peru
+Male,Richest_Wealth_quintile,Rural_Residence,2,3,2,Peru
+Female,Richest_Wealth_quintile,Urban_Residence,2,2,3,Peru
+Female,Richest_Wealth_quintile,Rural_Residence,2,2,2,Peru
+Male,Poorest_Wealth_quintile,Urban_Residence,4,3,2,Philippines
+Male,Poorest_Wealth_quintile,Rural_Residence,4,3,2,Philippines
+Female,Poorest_Wealth_quintile,Urban_Residence,4,2,2,Philippines
+Female,Poorest_Wealth_quintile,Rural_Residence,4,2,2,Philippines
+Male,Second_Wealth_quintile,Urban_Residence,2,3,2,Philippines
+Male,Second_Wealth_quintile,Rural_Residence,2,3,2,Philippines
+Female,Second_Wealth_quintile,Urban_Residence,2,2,2,Philippines
+Female,Second_Wealth_quintile,Rural_Residence,2,2,2,Philippines
+Male,Middle_Wealth_quintile,Urban_Residence,2,3,2,Philippines
+Male,Middle_Wealth_quintile,Rural_Residence,2,3,2,Philippines
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,2,Philippines
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,2,Philippines
+Male,Fourth_Wealth_quintile,Urban_Residence,1,3,2,Philippines
+Male,Fourth_Wealth_quintile,Rural_Residence,1,3,2,Philippines
+Female,Fourth_Wealth_quintile,Urban_Residence,1,2,2,Philippines
+Female,Fourth_Wealth_quintile,Rural_Residence,1,2,2,Philippines
+Male,Richest_Wealth_quintile,Urban_Residence,1,3,2,Philippines
+Male,Richest_Wealth_quintile,Rural_Residence,1,3,2,Philippines
+Female,Richest_Wealth_quintile,Urban_Residence,1,2,2,Philippines
+Female,Richest_Wealth_quintile,Rural_Residence,1,2,2,Philippines
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Republic of Moldova
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,0,Republic of Moldova
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Republic of Moldova
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,0,Republic of Moldova
+Male,Second_Wealth_quintile,Urban_Residence,1,1,1,Republic of Moldova
+Male,Second_Wealth_quintile,Rural_Residence,1,1,0,Republic of Moldova
+Female,Second_Wealth_quintile,Urban_Residence,1,1,1,Republic of Moldova
+Female,Second_Wealth_quintile,Rural_Residence,1,1,0,Republic of Moldova
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,Republic of Moldova
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,0,Republic of Moldova
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,Republic of Moldova
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,0,Republic of Moldova
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Republic of Moldova
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,0,Republic of Moldova
+Female,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Republic of Moldova
+Female,Fourth_Wealth_quintile,Rural_Residence,1,1,0,Republic of Moldova
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,1,Republic of Moldova
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,0,Republic of Moldova
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,1,Republic of Moldova
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,0,Republic of Moldova
+Male,Poorest_Wealth_quintile,Urban_Residence,12,7,4,Rwanda
+Male,Poorest_Wealth_quintile,Rural_Residence,12,7,6,Rwanda
+Female,Poorest_Wealth_quintile,Urban_Residence,12,4,4,Rwanda
+Female,Poorest_Wealth_quintile,Rural_Residence,12,4,6,Rwanda
+Male,Second_Wealth_quintile,Urban_Residence,6,7,4,Rwanda
+Male,Second_Wealth_quintile,Rural_Residence,6,7,6,Rwanda
+Female,Second_Wealth_quintile,Urban_Residence,6,4,4,Rwanda
+Female,Second_Wealth_quintile,Rural_Residence,6,4,6,Rwanda
+Male,Middle_Wealth_quintile,Urban_Residence,4,7,4,Rwanda
+Male,Middle_Wealth_quintile,Rural_Residence,4,7,6,Rwanda
+Female,Middle_Wealth_quintile,Urban_Residence,4,4,4,Rwanda
+Female,Middle_Wealth_quintile,Rural_Residence,4,4,6,Rwanda
+Male,Fourth_Wealth_quintile,Urban_Residence,3,7,4,Rwanda
+Male,Fourth_Wealth_quintile,Rural_Residence,3,7,6,Rwanda
+Female,Fourth_Wealth_quintile,Urban_Residence,3,4,4,Rwanda
+Female,Fourth_Wealth_quintile,Rural_Residence,3,4,6,Rwanda
+Male,Richest_Wealth_quintile,Urban_Residence,3,7,4,Rwanda
+Male,Richest_Wealth_quintile,Rural_Residence,3,7,6,Rwanda
+Female,Richest_Wealth_quintile,Urban_Residence,3,4,4,Rwanda
+Female,Richest_Wealth_quintile,Rural_Residence,3,4,6,Rwanda
+Male,Poorest_Wealth_quintile,Urban_Residence,1,0,0,Saint Lucia
+Male,Poorest_Wealth_quintile,Rural_Residence,1,0,0,Saint Lucia
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,0,Saint Lucia
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,0,Saint Lucia
+Male,Second_Wealth_quintile,Urban_Residence,0,0,0,Saint Lucia
+Male,Second_Wealth_quintile,Rural_Residence,0,0,0,Saint Lucia
+Female,Second_Wealth_quintile,Urban_Residence,0,1,0,Saint Lucia
+Female,Second_Wealth_quintile,Rural_Residence,0,1,0,Saint Lucia
+Male,Middle_Wealth_quintile,Urban_Residence,0,0,0,Saint Lucia
+Male,Middle_Wealth_quintile,Rural_Residence,0,0,0,Saint Lucia
+Female,Middle_Wealth_quintile,Urban_Residence,0,1,0,Saint Lucia
+Female,Middle_Wealth_quintile,Rural_Residence,0,1,0,Saint Lucia
+Male,Fourth_Wealth_quintile,Urban_Residence,0,0,0,Saint Lucia
+Male,Fourth_Wealth_quintile,Rural_Residence,0,0,0,Saint Lucia
+Female,Fourth_Wealth_quintile,Urban_Residence,0,1,0,Saint Lucia
+Female,Fourth_Wealth_quintile,Rural_Residence,0,1,0,Saint Lucia
+Male,Richest_Wealth_quintile,Urban_Residence,0,0,0,Saint Lucia
+Male,Richest_Wealth_quintile,Rural_Residence,0,0,0,Saint Lucia
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,0,Saint Lucia
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,0,Saint Lucia
+Male,Poorest_Wealth_quintile,Urban_Residence,5,4,3,Sao Tome and Principe
+Male,Poorest_Wealth_quintile,Rural_Residence,5,4,4,Sao Tome and Principe
+Female,Poorest_Wealth_quintile,Urban_Residence,5,3,3,Sao Tome and Principe
+Female,Poorest_Wealth_quintile,Rural_Residence,5,3,4,Sao Tome and Principe
+Male,Second_Wealth_quintile,Urban_Residence,5,4,3,Sao Tome and Principe
+Male,Second_Wealth_quintile,Rural_Residence,5,4,4,Sao Tome and Principe
+Female,Second_Wealth_quintile,Urban_Residence,5,3,3,Sao Tome and Principe
+Female,Second_Wealth_quintile,Rural_Residence,5,3,4,Sao Tome and Principe
+Male,Middle_Wealth_quintile,Urban_Residence,3,4,3,Sao Tome and Principe
+Male,Middle_Wealth_quintile,Rural_Residence,3,4,4,Sao Tome and Principe
+Female,Middle_Wealth_quintile,Urban_Residence,3,3,3,Sao Tome and Principe
+Female,Middle_Wealth_quintile,Rural_Residence,3,3,4,Sao Tome and Principe
+Male,Fourth_Wealth_quintile,Urban_Residence,3,4,3,Sao Tome and Principe
+Male,Fourth_Wealth_quintile,Rural_Residence,3,4,4,Sao Tome and Principe
+Female,Fourth_Wealth_quintile,Urban_Residence,3,3,3,Sao Tome and Principe
+Female,Fourth_Wealth_quintile,Rural_Residence,3,3,4,Sao Tome and Principe
+Male,Richest_Wealth_quintile,Urban_Residence,1,4,3,Sao Tome and Principe
+Male,Richest_Wealth_quintile,Rural_Residence,1,4,4,Sao Tome and Principe
+Female,Richest_Wealth_quintile,Urban_Residence,1,3,3,Sao Tome and Principe
+Female,Richest_Wealth_quintile,Rural_Residence,1,3,4,Sao Tome and Principe
+Male,Poorest_Wealth_quintile,Urban_Residence,56,40,20,Senegal
+Male,Poorest_Wealth_quintile,Rural_Residence,56,40,51,Senegal
+Female,Poorest_Wealth_quintile,Urban_Residence,56,38,20,Senegal
+Female,Poorest_Wealth_quintile,Rural_Residence,56,38,51,Senegal
+Male,Second_Wealth_quintile,Urban_Residence,47,40,20,Senegal
+Male,Second_Wealth_quintile,Rural_Residence,47,40,51,Senegal
+Female,Second_Wealth_quintile,Urban_Residence,47,38,20,Senegal
+Female,Second_Wealth_quintile,Rural_Residence,47,38,51,Senegal
+Male,Middle_Wealth_quintile,Urban_Residence,37,40,20,Senegal
+Male,Middle_Wealth_quintile,Rural_Residence,37,40,51,Senegal
+Female,Middle_Wealth_quintile,Urban_Residence,37,38,20,Senegal
+Female,Middle_Wealth_quintile,Rural_Residence,37,38,51,Senegal
+Male,Fourth_Wealth_quintile,Urban_Residence,31,40,20,Senegal
+Male,Fourth_Wealth_quintile,Rural_Residence,31,40,51,Senegal
+Female,Fourth_Wealth_quintile,Urban_Residence,31,38,20,Senegal
+Female,Fourth_Wealth_quintile,Rural_Residence,31,38,51,Senegal
+Male,Richest_Wealth_quintile,Urban_Residence,14,40,20,Senegal
+Male,Richest_Wealth_quintile,Rural_Residence,14,40,51,Senegal
+Female,Richest_Wealth_quintile,Urban_Residence,14,38,20,Senegal
+Female,Richest_Wealth_quintile,Rural_Residence,14,38,51,Senegal
+Male,Poorest_Wealth_quintile,Urban_Residence,0,1,0,Serbia
+Male,Poorest_Wealth_quintile,Rural_Residence,0,1,1,Serbia
+Female,Poorest_Wealth_quintile,Urban_Residence,0,0,0,Serbia
+Female,Poorest_Wealth_quintile,Rural_Residence,0,0,1,Serbia
+Male,Second_Wealth_quintile,Urban_Residence,3,1,0,Serbia
+Male,Second_Wealth_quintile,Rural_Residence,3,1,1,Serbia
+Female,Second_Wealth_quintile,Urban_Residence,3,0,0,Serbia
+Female,Second_Wealth_quintile,Rural_Residence,3,0,1,Serbia
+Male,Middle_Wealth_quintile,Urban_Residence,0,1,0,Serbia
+Male,Middle_Wealth_quintile,Rural_Residence,0,1,1,Serbia
+Female,Middle_Wealth_quintile,Urban_Residence,0,0,0,Serbia
+Female,Middle_Wealth_quintile,Rural_Residence,0,0,1,Serbia
+Male,Fourth_Wealth_quintile,Urban_Residence,0,1,0,Serbia
+Male,Fourth_Wealth_quintile,Rural_Residence,0,1,1,Serbia
+Female,Fourth_Wealth_quintile,Urban_Residence,0,0,0,Serbia
+Female,Fourth_Wealth_quintile,Rural_Residence,0,0,1,Serbia
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,0,Serbia
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Serbia
+Female,Richest_Wealth_quintile,Urban_Residence,0,0,0,Serbia
+Female,Richest_Wealth_quintile,Rural_Residence,0,0,1,Serbia
+Male,Poorest_Wealth_quintile,Urban_Residence,34,20,8,Sierra Leone
+Male,Poorest_Wealth_quintile,Rural_Residence,34,20,24,Sierra Leone
+Female,Poorest_Wealth_quintile,Urban_Residence,34,15,8,Sierra Leone
+Female,Poorest_Wealth_quintile,Rural_Residence,34,15,24,Sierra Leone
+Male,Second_Wealth_quintile,Urban_Residence,22,20,8,Sierra Leone
+Male,Second_Wealth_quintile,Rural_Residence,22,20,24,Sierra Leone
+Female,Second_Wealth_quintile,Urban_Residence,22,15,8,Sierra Leone
+Female,Second_Wealth_quintile,Rural_Residence,22,15,24,Sierra Leone
+Male,Middle_Wealth_quintile,Urban_Residence,14,20,8,Sierra Leone
+Male,Middle_Wealth_quintile,Rural_Residence,14,20,24,Sierra Leone
+Female,Middle_Wealth_quintile,Urban_Residence,14,15,8,Sierra Leone
+Female,Middle_Wealth_quintile,Rural_Residence,14,15,24,Sierra Leone
+Male,Fourth_Wealth_quintile,Urban_Residence,9,20,8,Sierra Leone
+Male,Fourth_Wealth_quintile,Rural_Residence,9,20,24,Sierra Leone
+Female,Fourth_Wealth_quintile,Urban_Residence,9,15,8,Sierra Leone
+Female,Fourth_Wealth_quintile,Rural_Residence,9,15,24,Sierra Leone
+Male,Richest_Wealth_quintile,Urban_Residence,6,20,8,Sierra Leone
+Male,Richest_Wealth_quintile,Rural_Residence,6,20,24,Sierra Leone
+Female,Richest_Wealth_quintile,Urban_Residence,6,15,8,Sierra Leone
+Female,Richest_Wealth_quintile,Rural_Residence,6,15,24,Sierra Leone
+Male,Poorest_Wealth_quintile,Urban_Residence,2,1,1,South Africa
+Male,Poorest_Wealth_quintile,Rural_Residence,2,1,1,South Africa
+Female,Poorest_Wealth_quintile,Urban_Residence,2,1,1,South Africa
+Female,Poorest_Wealth_quintile,Rural_Residence,2,1,1,South Africa
+Male,Second_Wealth_quintile,Urban_Residence,1,1,1,South Africa
+Male,Second_Wealth_quintile,Rural_Residence,1,1,1,South Africa
+Female,Second_Wealth_quintile,Urban_Residence,1,1,1,South Africa
+Female,Second_Wealth_quintile,Rural_Residence,1,1,1,South Africa
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,South Africa
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,South Africa
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,South Africa
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,1,South Africa
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,1,South Africa
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,1,South Africa
+Female,Fourth_Wealth_quintile,Urban_Residence,1,1,1,South Africa
+Female,Fourth_Wealth_quintile,Rural_Residence,1,1,1,South Africa
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,1,South Africa
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,South Africa
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,1,South Africa
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,1,South Africa
+Male,Poorest_Wealth_quintile,Urban_Residence,86,70,56,South Sudan
+Male,Poorest_Wealth_quintile,Rural_Residence,86,70,78,South Sudan
+Female,Poorest_Wealth_quintile,Urban_Residence,86,75,56,South Sudan
+Female,Poorest_Wealth_quintile,Rural_Residence,86,75,78,South Sudan
+Male,Second_Wealth_quintile,Urban_Residence,84,70,56,South Sudan
+Male,Second_Wealth_quintile,Rural_Residence,84,70,78,South Sudan
+Female,Second_Wealth_quintile,Urban_Residence,84,75,56,South Sudan
+Female,Second_Wealth_quintile,Rural_Residence,84,75,78,South Sudan
+Male,Middle_Wealth_quintile,Urban_Residence,77,70,56,South Sudan
+Male,Middle_Wealth_quintile,Rural_Residence,77,70,78,South Sudan
+Female,Middle_Wealth_quintile,Urban_Residence,77,75,56,South Sudan
+Female,Middle_Wealth_quintile,Rural_Residence,77,75,78,South Sudan
+Male,Fourth_Wealth_quintile,Urban_Residence,65,70,56,South Sudan
+Male,Fourth_Wealth_quintile,Rural_Residence,65,70,78,South Sudan
+Female,Fourth_Wealth_quintile,Urban_Residence,65,75,56,South Sudan
+Female,Fourth_Wealth_quintile,Rural_Residence,65,75,78,South Sudan
+Male,Richest_Wealth_quintile,Urban_Residence,44,70,56,South Sudan
+Male,Richest_Wealth_quintile,Rural_Residence,44,70,78,South Sudan
+Female,Richest_Wealth_quintile,Urban_Residence,44,75,56,South Sudan
+Female,Richest_Wealth_quintile,Rural_Residence,44,75,78,South Sudan
+Male,Poorest_Wealth_quintile,Urban_Residence,2,2,3,Sri Lanka
+Male,Poorest_Wealth_quintile,Rural_Residence,2,2,2,Sri Lanka
+Female,Poorest_Wealth_quintile,Urban_Residence,2,2,3,Sri Lanka
+Female,Poorest_Wealth_quintile,Rural_Residence,2,2,2,Sri Lanka
+Male,Second_Wealth_quintile,Urban_Residence,2,2,3,Sri Lanka
+Male,Second_Wealth_quintile,Rural_Residence,2,2,2,Sri Lanka
+Female,Second_Wealth_quintile,Urban_Residence,2,2,3,Sri Lanka
+Female,Second_Wealth_quintile,Rural_Residence,2,2,2,Sri Lanka
+Male,Middle_Wealth_quintile,Urban_Residence,2,2,3,Sri Lanka
+Male,Middle_Wealth_quintile,Rural_Residence,2,2,2,Sri Lanka
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,3,Sri Lanka
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,2,Sri Lanka
+Male,Fourth_Wealth_quintile,Urban_Residence,3,2,3,Sri Lanka
+Male,Fourth_Wealth_quintile,Rural_Residence,3,2,2,Sri Lanka
+Female,Fourth_Wealth_quintile,Urban_Residence,3,2,3,Sri Lanka
+Female,Fourth_Wealth_quintile,Rural_Residence,3,2,2,Sri Lanka
+Male,Richest_Wealth_quintile,Urban_Residence,2,2,3,Sri Lanka
+Male,Richest_Wealth_quintile,Rural_Residence,2,2,2,Sri Lanka
+Female,Richest_Wealth_quintile,Urban_Residence,2,2,3,Sri Lanka
+Female,Richest_Wealth_quintile,Rural_Residence,2,2,2,Sri Lanka
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,1,State of Palestine
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,1,State of Palestine
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,1,State of Palestine
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,1,State of Palestine
+Male,Second_Wealth_quintile,Urban_Residence,1,1,1,State of Palestine
+Male,Second_Wealth_quintile,Rural_Residence,1,1,1,State of Palestine
+Female,Second_Wealth_quintile,Urban_Residence,1,1,1,State of Palestine
+Female,Second_Wealth_quintile,Rural_Residence,1,1,1,State of Palestine
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,State of Palestine
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,State of Palestine
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,State of Palestine
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,1,State of Palestine
+Male,Fourth_Wealth_quintile,Urban_Residence,0,1,1,State of Palestine
+Male,Fourth_Wealth_quintile,Rural_Residence,0,1,1,State of Palestine
+Female,Fourth_Wealth_quintile,Urban_Residence,0,1,1,State of Palestine
+Female,Fourth_Wealth_quintile,Rural_Residence,0,1,1,State of Palestine
+Male,Richest_Wealth_quintile,Urban_Residence,1,1,1,State of Palestine
+Male,Richest_Wealth_quintile,Rural_Residence,1,1,1,State of Palestine
+Female,Richest_Wealth_quintile,Urban_Residence,1,1,1,State of Palestine
+Female,Richest_Wealth_quintile,Rural_Residence,1,1,1,State of Palestine
+Male,Poorest_Wealth_quintile,Urban_Residence,41,20,6,Sudan
+Male,Poorest_Wealth_quintile,Rural_Residence,41,20,27,Sudan
+Female,Poorest_Wealth_quintile,Urban_Residence,41,21,6,Sudan
+Female,Poorest_Wealth_quintile,Rural_Residence,41,21,27,Sudan
+Male,Second_Wealth_quintile,Urban_Residence,33,20,6,Sudan
+Male,Second_Wealth_quintile,Rural_Residence,33,20,27,Sudan
+Female,Second_Wealth_quintile,Urban_Residence,33,21,6,Sudan
+Female,Second_Wealth_quintile,Rural_Residence,33,21,27,Sudan
+Male,Middle_Wealth_quintile,Urban_Residence,15,20,6,Sudan
+Male,Middle_Wealth_quintile,Rural_Residence,15,20,27,Sudan
+Female,Middle_Wealth_quintile,Urban_Residence,15,21,6,Sudan
+Female,Middle_Wealth_quintile,Rural_Residence,15,21,27,Sudan
+Male,Fourth_Wealth_quintile,Urban_Residence,5,20,6,Sudan
+Male,Fourth_Wealth_quintile,Rural_Residence,5,20,27,Sudan
+Female,Fourth_Wealth_quintile,Urban_Residence,5,21,6,Sudan
+Female,Fourth_Wealth_quintile,Rural_Residence,5,21,27,Sudan
+Male,Richest_Wealth_quintile,Urban_Residence,1,20,6,Sudan
+Male,Richest_Wealth_quintile,Rural_Residence,1,20,27,Sudan
+Female,Richest_Wealth_quintile,Urban_Residence,1,21,6,Sudan
+Female,Richest_Wealth_quintile,Rural_Residence,1,21,27,Sudan
+Male,Poorest_Wealth_quintile,Urban_Residence,5,3,2,Suriname
+Male,Poorest_Wealth_quintile,Rural_Residence,5,3,3,Suriname
+Female,Poorest_Wealth_quintile,Urban_Residence,5,2,2,Suriname
+Female,Poorest_Wealth_quintile,Rural_Residence,5,2,3,Suriname
+Male,Second_Wealth_quintile,Urban_Residence,2,3,2,Suriname
+Male,Second_Wealth_quintile,Rural_Residence,2,3,3,Suriname
+Female,Second_Wealth_quintile,Urban_Residence,2,2,2,Suriname
+Female,Second_Wealth_quintile,Rural_Residence,2,2,3,Suriname
+Male,Middle_Wealth_quintile,Urban_Residence,1,3,2,Suriname
+Male,Middle_Wealth_quintile,Rural_Residence,1,3,3,Suriname
+Female,Middle_Wealth_quintile,Urban_Residence,1,2,2,Suriname
+Female,Middle_Wealth_quintile,Rural_Residence,1,2,3,Suriname
+Male,Fourth_Wealth_quintile,Urban_Residence,1,3,2,Suriname
+Male,Fourth_Wealth_quintile,Rural_Residence,1,3,3,Suriname
+Female,Fourth_Wealth_quintile,Urban_Residence,1,2,2,Suriname
+Female,Fourth_Wealth_quintile,Rural_Residence,1,2,3,Suriname
+Male,Richest_Wealth_quintile,Urban_Residence,2,3,2,Suriname
+Male,Richest_Wealth_quintile,Rural_Residence,2,3,3,Suriname
+Female,Richest_Wealth_quintile,Urban_Residence,2,2,2,Suriname
+Female,Richest_Wealth_quintile,Rural_Residence,2,2,3,Suriname
+Male,Poorest_Wealth_quintile,Urban_Residence,2,2,2,Tajikistan
+Male,Poorest_Wealth_quintile,Rural_Residence,2,2,2,Tajikistan
+Female,Poorest_Wealth_quintile,Urban_Residence,2,2,2,Tajikistan
+Female,Poorest_Wealth_quintile,Rural_Residence,2,2,2,Tajikistan
+Male,Second_Wealth_quintile,Urban_Residence,2,2,2,Tajikistan
+Male,Second_Wealth_quintile,Rural_Residence,2,2,2,Tajikistan
+Female,Second_Wealth_quintile,Urban_Residence,2,2,2,Tajikistan
+Female,Second_Wealth_quintile,Rural_Residence,2,2,2,Tajikistan
+Male,Middle_Wealth_quintile,Urban_Residence,2,2,2,Tajikistan
+Male,Middle_Wealth_quintile,Rural_Residence,2,2,2,Tajikistan
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,2,Tajikistan
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,2,Tajikistan
+Male,Fourth_Wealth_quintile,Urban_Residence,1,2,2,Tajikistan
+Male,Fourth_Wealth_quintile,Rural_Residence,1,2,2,Tajikistan
+Female,Fourth_Wealth_quintile,Urban_Residence,1,2,2,Tajikistan
+Female,Fourth_Wealth_quintile,Rural_Residence,1,2,2,Tajikistan
+Male,Richest_Wealth_quintile,Urban_Residence,2,2,2,Tajikistan
+Male,Richest_Wealth_quintile,Rural_Residence,2,2,2,Tajikistan
+Female,Richest_Wealth_quintile,Urban_Residence,2,2,2,Tajikistan
+Female,Richest_Wealth_quintile,Rural_Residence,2,2,2,Tajikistan
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Thailand
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Thailand
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Thailand
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,1,Thailand
+Male,Second_Wealth_quintile,Urban_Residence,1,1,1,Thailand
+Male,Second_Wealth_quintile,Rural_Residence,1,1,1,Thailand
+Female,Second_Wealth_quintile,Urban_Residence,1,1,1,Thailand
+Female,Second_Wealth_quintile,Rural_Residence,1,1,1,Thailand
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,Thailand
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,Thailand
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,Thailand
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,1,Thailand
+Male,Fourth_Wealth_quintile,Urban_Residence,2,1,1,Thailand
+Male,Fourth_Wealth_quintile,Rural_Residence,2,1,1,Thailand
+Female,Fourth_Wealth_quintile,Urban_Residence,2,1,1,Thailand
+Female,Fourth_Wealth_quintile,Rural_Residence,2,1,1,Thailand
+Male,Richest_Wealth_quintile,Urban_Residence,1,1,1,Thailand
+Male,Richest_Wealth_quintile,Rural_Residence,1,1,1,Thailand
+Female,Richest_Wealth_quintile,Urban_Residence,1,1,1,Thailand
+Female,Richest_Wealth_quintile,Rural_Residence,1,1,1,Thailand
+Male,Poorest_Wealth_quintile,Urban_Residence,18,10,4,Timor-Leste
+Male,Poorest_Wealth_quintile,Rural_Residence,18,10,11,Timor-Leste
+Female,Poorest_Wealth_quintile,Urban_Residence,18,9,4,Timor-Leste
+Female,Poorest_Wealth_quintile,Rural_Residence,18,9,11,Timor-Leste
+Male,Second_Wealth_quintile,Urban_Residence,12,10,4,Timor-Leste
+Male,Second_Wealth_quintile,Rural_Residence,12,10,11,Timor-Leste
+Female,Second_Wealth_quintile,Urban_Residence,12,9,4,Timor-Leste
+Female,Second_Wealth_quintile,Rural_Residence,12,9,11,Timor-Leste
+Male,Middle_Wealth_quintile,Urban_Residence,7,10,4,Timor-Leste
+Male,Middle_Wealth_quintile,Rural_Residence,7,10,11,Timor-Leste
+Female,Middle_Wealth_quintile,Urban_Residence,7,9,4,Timor-Leste
+Female,Middle_Wealth_quintile,Rural_Residence,7,9,11,Timor-Leste
+Male,Fourth_Wealth_quintile,Urban_Residence,5,10,4,Timor-Leste
+Male,Fourth_Wealth_quintile,Rural_Residence,5,10,11,Timor-Leste
+Female,Fourth_Wealth_quintile,Urban_Residence,5,9,4,Timor-Leste
+Female,Fourth_Wealth_quintile,Rural_Residence,5,9,11,Timor-Leste
+Male,Richest_Wealth_quintile,Urban_Residence,3,10,4,Timor-Leste
+Male,Richest_Wealth_quintile,Rural_Residence,3,10,11,Timor-Leste
+Female,Richest_Wealth_quintile,Urban_Residence,3,9,4,Timor-Leste
+Female,Richest_Wealth_quintile,Rural_Residence,3,9,11,Timor-Leste
+Male,Poorest_Wealth_quintile,Urban_Residence,17,8,3,Togo
+Male,Poorest_Wealth_quintile,Rural_Residence,17,8,11,Togo
+Female,Poorest_Wealth_quintile,Urban_Residence,17,9,3,Togo
+Female,Poorest_Wealth_quintile,Rural_Residence,17,9,11,Togo
+Male,Second_Wealth_quintile,Urban_Residence,10,8,3,Togo
+Male,Second_Wealth_quintile,Rural_Residence,10,8,11,Togo
+Female,Second_Wealth_quintile,Urban_Residence,10,9,3,Togo
+Female,Second_Wealth_quintile,Rural_Residence,10,9,11,Togo
+Male,Middle_Wealth_quintile,Urban_Residence,4,8,3,Togo
+Male,Middle_Wealth_quintile,Rural_Residence,4,8,11,Togo
+Female,Middle_Wealth_quintile,Urban_Residence,4,9,3,Togo
+Female,Middle_Wealth_quintile,Rural_Residence,4,9,11,Togo
+Male,Fourth_Wealth_quintile,Urban_Residence,2,8,3,Togo
+Male,Fourth_Wealth_quintile,Rural_Residence,2,8,11,Togo
+Female,Fourth_Wealth_quintile,Urban_Residence,2,9,3,Togo
+Female,Fourth_Wealth_quintile,Rural_Residence,2,9,11,Togo
+Male,Richest_Wealth_quintile,Urban_Residence,3,8,3,Togo
+Male,Richest_Wealth_quintile,Rural_Residence,3,8,11,Togo
+Female,Richest_Wealth_quintile,Urban_Residence,3,9,3,Togo
+Female,Richest_Wealth_quintile,Rural_Residence,3,9,11,Togo
+Male,Poorest_Wealth_quintile,Urban_Residence,5,4,3,Tonga
+Male,Poorest_Wealth_quintile,Rural_Residence,5,4,4,Tonga
+Female,Poorest_Wealth_quintile,Urban_Residence,5,4,3,Tonga
+Female,Poorest_Wealth_quintile,Rural_Residence,5,4,4,Tonga
+Male,Second_Wealth_quintile,Urban_Residence,3,4,3,Tonga
+Male,Second_Wealth_quintile,Rural_Residence,3,4,4,Tonga
+Female,Second_Wealth_quintile,Urban_Residence,3,4,3,Tonga
+Female,Second_Wealth_quintile,Rural_Residence,3,4,4,Tonga
+Male,Middle_Wealth_quintile,Urban_Residence,3,4,3,Tonga
+Male,Middle_Wealth_quintile,Rural_Residence,3,4,4,Tonga
+Female,Middle_Wealth_quintile,Urban_Residence,3,4,3,Tonga
+Female,Middle_Wealth_quintile,Rural_Residence,3,4,4,Tonga
+Male,Fourth_Wealth_quintile,Urban_Residence,4,4,3,Tonga
+Male,Fourth_Wealth_quintile,Rural_Residence,4,4,4,Tonga
+Female,Fourth_Wealth_quintile,Urban_Residence,4,4,3,Tonga
+Female,Fourth_Wealth_quintile,Rural_Residence,4,4,4,Tonga
+Male,Richest_Wealth_quintile,Urban_Residence,3,4,3,Tonga
+Male,Richest_Wealth_quintile,Rural_Residence,3,4,4,Tonga
+Female,Richest_Wealth_quintile,Urban_Residence,3,4,3,Tonga
+Female,Richest_Wealth_quintile,Rural_Residence,3,4,4,Tonga
+Male,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Trinidad and Tobago
+Male,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Trinidad and Tobago
+Female,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Trinidad and Tobago
+Female,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Trinidad and Tobago
+Male,Second_Wealth_quintile,Urban_Residence,1,1,1,Trinidad and Tobago
+Male,Second_Wealth_quintile,Rural_Residence,1,1,1,Trinidad and Tobago
+Female,Second_Wealth_quintile,Urban_Residence,1,1,1,Trinidad and Tobago
+Female,Second_Wealth_quintile,Rural_Residence,1,1,1,Trinidad and Tobago
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,Trinidad and Tobago
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,Trinidad and Tobago
+Female,Middle_Wealth_quintile,Urban_Residence,1,1,1,Trinidad and Tobago
+Female,Middle_Wealth_quintile,Rural_Residence,1,1,1,Trinidad and Tobago
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Trinidad and Tobago
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Trinidad and Tobago
+Female,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Trinidad and Tobago
+Female,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Trinidad and Tobago
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,1,Trinidad and Tobago
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Trinidad and Tobago
+Female,Richest_Wealth_quintile,Urban_Residence,0,1,1,Trinidad and Tobago
+Female,Richest_Wealth_quintile,Rural_Residence,0,1,1,Trinidad and Tobago
+Male,Poorest_Wealth_quintile,Urban_Residence,4,3,3,Tunisia
+Male,Poorest_Wealth_quintile,Rural_Residence,4,3,3,Tunisia
+Female,Poorest_Wealth_quintile,Urban_Residence,4,3,3,Tunisia
+Female,Poorest_Wealth_quintile,Rural_Residence,4,3,3,Tunisia
+Male,Second_Wealth_quintile,Urban_Residence,3,3,3,Tunisia
+Male,Second_Wealth_quintile,Rural_Residence,3,3,3,Tunisia
+Female,Second_Wealth_quintile,Urban_Residence,3,3,3,Tunisia
+Female,Second_Wealth_quintile,Rural_Residence,3,3,3,Tunisia
+Male,Middle_Wealth_quintile,Urban_Residence,3,3,3,Tunisia
+Male,Middle_Wealth_quintile,Rural_Residence,3,3,3,Tunisia
+Female,Middle_Wealth_quintile,Urban_Residence,3,3,3,Tunisia
+Female,Middle_Wealth_quintile,Rural_Residence,3,3,3,Tunisia
+Male,Fourth_Wealth_quintile,Urban_Residence,3,3,3,Tunisia
+Male,Fourth_Wealth_quintile,Rural_Residence,3,3,3,Tunisia
+Female,Fourth_Wealth_quintile,Urban_Residence,3,3,3,Tunisia
+Female,Fourth_Wealth_quintile,Rural_Residence,3,3,3,Tunisia
+Male,Richest_Wealth_quintile,Urban_Residence,2,3,3,Tunisia
+Male,Richest_Wealth_quintile,Rural_Residence,2,3,3,Tunisia
+Female,Richest_Wealth_quintile,Urban_Residence,2,3,3,Tunisia
+Female,Richest_Wealth_quintile,Rural_Residence,2,3,3,Tunisia
+Male,Poorest_Wealth_quintile,Urban_Residence,7,5,4,Turkey
+Male,Poorest_Wealth_quintile,Rural_Residence,7,5,4,Turkey
+Female,Poorest_Wealth_quintile,Urban_Residence,7,3,4,Turkey
+Female,Poorest_Wealth_quintile,Rural_Residence,7,3,4,Turkey
+Male,Second_Wealth_quintile,Urban_Residence,3,5,4,Turkey
+Male,Second_Wealth_quintile,Rural_Residence,3,5,4,Turkey
+Female,Second_Wealth_quintile,Urban_Residence,3,3,4,Turkey
+Female,Second_Wealth_quintile,Rural_Residence,3,3,4,Turkey
+Male,Middle_Wealth_quintile,Urban_Residence,3,5,4,Turkey
+Male,Middle_Wealth_quintile,Rural_Residence,3,5,4,Turkey
+Female,Middle_Wealth_quintile,Urban_Residence,3,3,4,Turkey
+Female,Middle_Wealth_quintile,Rural_Residence,3,3,4,Turkey
+Male,Fourth_Wealth_quintile,Urban_Residence,4,5,4,Turkey
+Male,Fourth_Wealth_quintile,Rural_Residence,4,5,4,Turkey
+Female,Fourth_Wealth_quintile,Urban_Residence,4,3,4,Turkey
+Female,Fourth_Wealth_quintile,Rural_Residence,4,3,4,Turkey
+Male,Richest_Wealth_quintile,Urban_Residence,2,5,4,Turkey
+Male,Richest_Wealth_quintile,Rural_Residence,2,5,4,Turkey
+Female,Richest_Wealth_quintile,Urban_Residence,2,3,4,Turkey
+Female,Richest_Wealth_quintile,Rural_Residence,2,3,4,Turkey
+Male,Poorest_Wealth_quintile,Urban_Residence,2,1,1,Turkmenistan
+Male,Poorest_Wealth_quintile,Rural_Residence,2,1,1,Turkmenistan
+Female,Poorest_Wealth_quintile,Urban_Residence,2,2,1,Turkmenistan
+Female,Poorest_Wealth_quintile,Rural_Residence,2,2,1,Turkmenistan
+Male,Second_Wealth_quintile,Urban_Residence,1,1,1,Turkmenistan
+Male,Second_Wealth_quintile,Rural_Residence,1,1,1,Turkmenistan
+Female,Second_Wealth_quintile,Urban_Residence,1,2,1,Turkmenistan
+Female,Second_Wealth_quintile,Rural_Residence,1,2,1,Turkmenistan
+Male,Middle_Wealth_quintile,Urban_Residence,1,1,1,Turkmenistan
+Male,Middle_Wealth_quintile,Rural_Residence,1,1,1,Turkmenistan
+Female,Middle_Wealth_quintile,Urban_Residence,1,2,1,Turkmenistan
+Female,Middle_Wealth_quintile,Rural_Residence,1,2,1,Turkmenistan
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Turkmenistan
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,1,Turkmenistan
+Female,Fourth_Wealth_quintile,Urban_Residence,1,2,1,Turkmenistan
+Female,Fourth_Wealth_quintile,Rural_Residence,1,2,1,Turkmenistan
+Male,Richest_Wealth_quintile,Urban_Residence,0,1,1,Turkmenistan
+Male,Richest_Wealth_quintile,Rural_Residence,0,1,1,Turkmenistan
+Female,Richest_Wealth_quintile,Urban_Residence,0,2,1,Turkmenistan
+Female,Richest_Wealth_quintile,Rural_Residence,0,2,1,Turkmenistan
+Male,Poorest_Wealth_quintile,Urban_Residence,20,9,6,Uganda
+Male,Poorest_Wealth_quintile,Rural_Residence,20,9,9,Uganda
+Female,Poorest_Wealth_quintile,Urban_Residence,20,8,6,Uganda
+Female,Poorest_Wealth_quintile,Rural_Residence,20,8,9,Uganda
+Male,Second_Wealth_quintile,Urban_Residence,8,9,6,Uganda
+Male,Second_Wealth_quintile,Rural_Residence,8,9,9,Uganda
+Female,Second_Wealth_quintile,Urban_Residence,8,8,6,Uganda
+Female,Second_Wealth_quintile,Rural_Residence,8,8,9,Uganda
+Male,Middle_Wealth_quintile,Urban_Residence,5,9,6,Uganda
+Male,Middle_Wealth_quintile,Rural_Residence,5,9,9,Uganda
+Female,Middle_Wealth_quintile,Urban_Residence,5,8,6,Uganda
+Female,Middle_Wealth_quintile,Rural_Residence,5,8,9,Uganda
+Male,Fourth_Wealth_quintile,Urban_Residence,4,9,6,Uganda
+Male,Fourth_Wealth_quintile,Rural_Residence,4,9,9,Uganda
+Female,Fourth_Wealth_quintile,Urban_Residence,4,8,6,Uganda
+Female,Fourth_Wealth_quintile,Rural_Residence,4,8,9,Uganda
+Male,Richest_Wealth_quintile,Urban_Residence,3,9,6,Uganda
+Male,Richest_Wealth_quintile,Rural_Residence,3,9,9,Uganda
+Female,Richest_Wealth_quintile,Urban_Residence,3,8,6,Uganda
+Female,Richest_Wealth_quintile,Rural_Residence,3,8,9,Uganda
+Male,Poorest_Wealth_quintile,Urban_Residence,2,2,1,Ukraine
+Male,Poorest_Wealth_quintile,Rural_Residence,2,2,3,Ukraine
+Female,Poorest_Wealth_quintile,Urban_Residence,2,2,1,Ukraine
+Female,Poorest_Wealth_quintile,Rural_Residence,2,2,3,Ukraine
+Male,Second_Wealth_quintile,Urban_Residence,3,2,1,Ukraine
+Male,Second_Wealth_quintile,Rural_Residence,3,2,3,Ukraine
+Female,Second_Wealth_quintile,Urban_Residence,3,2,1,Ukraine
+Female,Second_Wealth_quintile,Rural_Residence,3,2,3,Ukraine
+Male,Middle_Wealth_quintile,Urban_Residence,2,2,1,Ukraine
+Male,Middle_Wealth_quintile,Rural_Residence,2,2,3,Ukraine
+Female,Middle_Wealth_quintile,Urban_Residence,2,2,1,Ukraine
+Female,Middle_Wealth_quintile,Rural_Residence,2,2,3,Ukraine
+Male,Fourth_Wealth_quintile,Urban_Residence,1,2,1,Ukraine
+Male,Fourth_Wealth_quintile,Rural_Residence,1,2,3,Ukraine
+Female,Fourth_Wealth_quintile,Urban_Residence,1,2,1,Ukraine
+Female,Fourth_Wealth_quintile,Rural_Residence,1,2,3,Ukraine
+Male,Richest_Wealth_quintile,Urban_Residence,1,2,1,Ukraine
+Male,Richest_Wealth_quintile,Rural_Residence,1,2,3,Ukraine
+Female,Richest_Wealth_quintile,Urban_Residence,1,2,1,Ukraine
+Female,Richest_Wealth_quintile,Rural_Residence,1,2,3,Ukraine
+Male,Poorest_Wealth_quintile,Urban_Residence,32,18,7,United Republic of Tanzania
+Male,Poorest_Wealth_quintile,Rural_Residence,32,18,19,United Republic of Tanzania
+Female,Poorest_Wealth_quintile,Urban_Residence,32,14,7,United Republic of Tanzania
+Female,Poorest_Wealth_quintile,Rural_Residence,32,14,19,United Republic of Tanzania
+Male,Second_Wealth_quintile,Urban_Residence,21,18,7,United Republic of Tanzania
+Male,Second_Wealth_quintile,Rural_Residence,21,18,19,United Republic of Tanzania
+Female,Second_Wealth_quintile,Urban_Residence,21,14,7,United Republic of Tanzania
+Female,Second_Wealth_quintile,Rural_Residence,21,14,19,United Republic of Tanzania
+Male,Middle_Wealth_quintile,Urban_Residence,12,18,7,United Republic of Tanzania
+Male,Middle_Wealth_quintile,Rural_Residence,12,18,19,United Republic of Tanzania
+Female,Middle_Wealth_quintile,Urban_Residence,12,14,7,United Republic of Tanzania
+Female,Middle_Wealth_quintile,Rural_Residence,12,14,19,United Republic of Tanzania
+Male,Fourth_Wealth_quintile,Urban_Residence,7,18,7,United Republic of Tanzania
+Male,Fourth_Wealth_quintile,Rural_Residence,7,18,19,United Republic of Tanzania
+Female,Fourth_Wealth_quintile,Urban_Residence,7,14,7,United Republic of Tanzania
+Female,Fourth_Wealth_quintile,Rural_Residence,7,14,19,United Republic of Tanzania
+Male,Richest_Wealth_quintile,Urban_Residence,4,18,7,United Republic of Tanzania
+Male,Richest_Wealth_quintile,Rural_Residence,4,18,19,United Republic of Tanzania
+Female,Richest_Wealth_quintile,Urban_Residence,4,14,7,United Republic of Tanzania
+Female,Richest_Wealth_quintile,Rural_Residence,4,14,19,United Republic of Tanzania
+Male,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Uruguay
+Male,Poorest_Wealth_quintile,Rural_Residence,1,1,0,Uruguay
+Female,Poorest_Wealth_quintile,Urban_Residence,1,1,1,Uruguay
+Female,Poorest_Wealth_quintile,Rural_Residence,1,1,0,Uruguay
+Male,Second_Wealth_quintile,Urban_Residence,0,1,1,Uruguay
+Male,Second_Wealth_quintile,Rural_Residence,0,1,0,Uruguay
+Female,Second_Wealth_quintile,Urban_Residence,0,1,1,Uruguay
+Female,Second_Wealth_quintile,Rural_Residence,0,1,0,Uruguay
+Male,Middle_Wealth_quintile,Urban_Residence,0,1,1,Uruguay
+Male,Middle_Wealth_quintile,Rural_Residence,0,1,0,Uruguay
+Female,Middle_Wealth_quintile,Urban_Residence,0,1,1,Uruguay
+Female,Middle_Wealth_quintile,Rural_Residence,0,1,0,Uruguay
+Male,Fourth_Wealth_quintile,Urban_Residence,3,1,1,Uruguay
+Male,Fourth_Wealth_quintile,Rural_Residence,3,1,0,Uruguay
+Female,Fourth_Wealth_quintile,Urban_Residence,3,1,1,Uruguay
+Female,Fourth_Wealth_quintile,Rural_Residence,3,1,0,Uruguay
+Male,Richest_Wealth_quintile,Urban_Residence,1,1,1,Uruguay
+Male,Richest_Wealth_quintile,Rural_Residence,1,1,0,Uruguay
+Female,Richest_Wealth_quintile,Urban_Residence,1,1,1,Uruguay
+Female,Richest_Wealth_quintile,Rural_Residence,1,1,0,Uruguay
+Male,Poorest_Wealth_quintile,Urban_Residence,5,1,1,Viet Nam
+Male,Poorest_Wealth_quintile,Rural_Residence,5,1,2,Viet Nam
+Female,Poorest_Wealth_quintile,Urban_Residence,5,2,1,Viet Nam
+Female,Poorest_Wealth_quintile,Rural_Residence,5,2,2,Viet Nam
+Male,Second_Wealth_quintile,Urban_Residence,1,1,1,Viet Nam
+Male,Second_Wealth_quintile,Rural_Residence,1,1,2,Viet Nam
+Female,Second_Wealth_quintile,Urban_Residence,1,2,1,Viet Nam
+Female,Second_Wealth_quintile,Rural_Residence,1,2,2,Viet Nam
+Male,Middle_Wealth_quintile,Urban_Residence,0,1,1,Viet Nam
+Male,Middle_Wealth_quintile,Rural_Residence,0,1,2,Viet Nam
+Female,Middle_Wealth_quintile,Urban_Residence,0,2,1,Viet Nam
+Female,Middle_Wealth_quintile,Rural_Residence,0,2,2,Viet Nam
+Male,Fourth_Wealth_quintile,Urban_Residence,1,1,1,Viet Nam
+Male,Fourth_Wealth_quintile,Rural_Residence,1,1,2,Viet Nam
+Female,Fourth_Wealth_quintile,Urban_Residence,1,2,1,Viet Nam
+Female,Fourth_Wealth_quintile,Rural_Residence,1,2,2,Viet Nam
+Male,Richest_Wealth_quintile,Urban_Residence,1,1,1,Viet Nam
+Male,Richest_Wealth_quintile,Rural_Residence,1,1,2,Viet Nam
+Female,Richest_Wealth_quintile,Urban_Residence,1,2,1,Viet Nam
+Female,Richest_Wealth_quintile,Rural_Residence,1,2,2,Viet Nam
+Male,Poorest_Wealth_quintile,Urban_Residence,44,19,14,Yemen
+Male,Poorest_Wealth_quintile,Rural_Residence,44,19,27,Yemen
+Female,Poorest_Wealth_quintile,Urban_Residence,44,27,14,Yemen
+Female,Poorest_Wealth_quintile,Rural_Residence,44,27,27,Yemen
+Male,Second_Wealth_quintile,Urban_Residence,24,19,14,Yemen
+Male,Second_Wealth_quintile,Rural_Residence,24,19,27,Yemen
+Female,Second_Wealth_quintile,Urban_Residence,24,27,14,Yemen
+Female,Second_Wealth_quintile,Rural_Residence,24,27,27,Yemen
+Male,Middle_Wealth_quintile,Urban_Residence,18,19,14,Yemen
+Male,Middle_Wealth_quintile,Rural_Residence,18,19,27,Yemen
+Female,Middle_Wealth_quintile,Urban_Residence,18,27,14,Yemen
+Female,Middle_Wealth_quintile,Rural_Residence,18,27,27,Yemen
+Male,Fourth_Wealth_quintile,Urban_Residence,16,19,14,Yemen
+Male,Fourth_Wealth_quintile,Rural_Residence,16,19,27,Yemen
+Female,Fourth_Wealth_quintile,Urban_Residence,16,27,14,Yemen
+Female,Fourth_Wealth_quintile,Rural_Residence,16,27,27,Yemen
+Male,Richest_Wealth_quintile,Urban_Residence,9,19,14,Yemen
+Male,Richest_Wealth_quintile,Rural_Residence,9,19,27,Yemen
+Female,Richest_Wealth_quintile,Urban_Residence,9,27,14,Yemen
+Female,Richest_Wealth_quintile,Rural_Residence,9,27,27,Yemen
+Male,Poorest_Wealth_quintile,Urban_Residence,28,18,9,Zambia
+Male,Poorest_Wealth_quintile,Rural_Residence,28,18,19,Zambia
+Female,Poorest_Wealth_quintile,Urban_Residence,28,13,9,Zambia
+Female,Poorest_Wealth_quintile,Rural_Residence,28,13,19,Zambia
+Male,Second_Wealth_quintile,Urban_Residence,20,18,9,Zambia
+Male,Second_Wealth_quintile,Rural_Residence,20,18,19,Zambia
+Female,Second_Wealth_quintile,Urban_Residence,20,13,9,Zambia
+Female,Second_Wealth_quintile,Rural_Residence,20,13,19,Zambia
+Male,Middle_Wealth_quintile,Urban_Residence,15,18,9,Zambia
+Male,Middle_Wealth_quintile,Rural_Residence,15,18,19,Zambia
+Female,Middle_Wealth_quintile,Urban_Residence,15,13,9,Zambia
+Female,Middle_Wealth_quintile,Rural_Residence,15,13,19,Zambia
+Male,Fourth_Wealth_quintile,Urban_Residence,10,18,9,Zambia
+Male,Fourth_Wealth_quintile,Rural_Residence,10,18,19,Zambia
+Female,Fourth_Wealth_quintile,Urban_Residence,10,13,9,Zambia
+Female,Fourth_Wealth_quintile,Rural_Residence,10,13,19,Zambia
+Male,Richest_Wealth_quintile,Urban_Residence,3,18,9,Zambia
+Male,Richest_Wealth_quintile,Rural_Residence,3,18,19,Zambia
+Female,Richest_Wealth_quintile,Urban_Residence,3,13,9,Zambia
+Female,Richest_Wealth_quintile,Rural_Residence,3,13,19,Zambia
+Male,Poorest_Wealth_quintile,Urban_Residence,8,5,4,Zimbabwe
+Male,Poorest_Wealth_quintile,Rural_Residence,8,5,5,Zimbabwe
+Female,Poorest_Wealth_quintile,Urban_Residence,8,4,4,Zimbabwe
+Female,Poorest_Wealth_quintile,Rural_Residence,8,4,5,Zimbabwe
+Male,Second_Wealth_quintile,Urban_Residence,4,5,4,Zimbabwe
+Male,Second_Wealth_quintile,Rural_Residence,4,5,5,Zimbabwe
+Female,Second_Wealth_quintile,Urban_Residence,4,4,4,Zimbabwe
+Female,Second_Wealth_quintile,Rural_Residence,4,4,5,Zimbabwe
+Male,Middle_Wealth_quintile,Urban_Residence,4,5,4,Zimbabwe
+Male,Middle_Wealth_quintile,Rural_Residence,4,5,5,Zimbabwe
+Female,Middle_Wealth_quintile,Urban_Residence,4,4,4,Zimbabwe
+Female,Middle_Wealth_quintile,Rural_Residence,4,4,5,Zimbabwe
+Male,Fourth_Wealth_quintile,Urban_Residence,4,5,4,Zimbabwe
+Male,Fourth_Wealth_quintile,Rural_Residence,4,5,5,Zimbabwe
+Female,Fourth_Wealth_quintile,Urban_Residence,4,4,4,Zimbabwe
+Female,Fourth_Wealth_quintile,Rural_Residence,4,4,5,Zimbabwe
+Male,Richest_Wealth_quintile,Urban_Residence,2,5,4,Zimbabwe
+Male,Richest_Wealth_quintile,Rural_Residence,2,5,5,Zimbabwe
+Female,Richest_Wealth_quintile,Urban_Residence,2,4,4,Zimbabwe
+Female,Richest_Wealth_quintile,Rural_Residence,2,4,5,Zimbabwe

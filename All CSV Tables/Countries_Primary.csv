@@ -1,0 +1,110 @@
+﻿ISO3,Country,Region,Development Region,Total (%),Male (%),Female (%),Rural Residence (%),Urban Residence (%)
+SSD,South Sudan,SSA,Least Developed,72,70,75,78,56
+TCD,Chad,SSA,Least Developed,50,47,53,55,28
+NER,Niger,SSA,Least Developed,49,45,54,55,17
+BFA,Burkina Faso,SSA,Least Developed,48,46,50,55,17
+MLI,Mali,SSA,Least Developed,47,45,50,55,18
+MRT,Mauritania,SSA,Least Developed,42,44,40,51,29
+SEN,Senegal,SSA,Least Developed,39,40,38,51,20
+AFG,Afghanistan,SA,Least Developed,37,28,47,42,19
+GIN,Guinea,SSA,Least Developed,34,31,37,44,14
+BEN,Benin,SSA,Least Developed,32,28,35,38,21
+GNB,Guinea-Bissau,SSA,Least Developed,28,29,26,36,11
+NGA,Nigeria,SSA,Less Developed,28,27,29,39,11
+GMB,Gambia,SSA,Least Developed,27,28,27,35,18
+CAF,Central African Republic,SSA,Least Developed,26,21,31,33,13
+ETH,Ethiopia,SSA,Least Developed,25,26,25,27,9
+CIV,C�te d'Ivoire,SSA,Less Developed,23,21,26,29,15
+MOZ,Mozambique,SSA,Least Developed,23,23,23,27,12
+PAK,Pakistan,SA,Less Developed,23,19,27,28,12
+YEM,Yemen,MENA,Least Developed,23,19,27,27,14
+MDG,Madagascar,SSA,Least Developed,22,24,19,24,11
+COD,Democratic Republic of the Congo,SSA,Least Developed,22,21,22,28,13
+AGO,Angola,SSA,Least Developed,22,21,22,35,14
+SDN,Sudan,SSA,Least Developed,21,20,21,27,6
+BDI,Burundi,SSA,Least Developed,18,18,18,19,6
+LBR,Liberia,SSA,Least Developed,17,18,17,23,14
+SLE,Sierra Leone,SSA,Least Developed,17,20,15,24,8
+ZMB,Zambia,SSA,Least Developed,16,18,13,19,9
+TZA,United Republic of Tanzania,SSA,Least Developed,16,18,14,19,7
+CMR,Cameroon,SSA,Less Developed,15,14,17,24,6
+COM,Comoros,SSA,Least Developed,14,14,15,17,9
+TLS,Timor-Leste,EAP,Least Developed,10,10,9,11,4
+TGO,Togo,SSA,Least Developed,8,8,9,11,3
+UGA,Uganda,SSA,Least Developed,8,9,8,9,6
+BTN,Bhutan,SA,Least Developed,8,9,7,10,3
+HTI,Haiti,LAC,Least Developed,8,9,8,11,4
+IRQ,Iraq,MENA,Less Developed,8,7,10,11,7
+LAO,Lao People's Democratic Republic,EAP,Least Developed,8,8,8,10,3
+HND,Honduras,LAC,Less Developed,7,7,6,7,6
+GHA,Ghana,SSA,Less Developed,7,7,6,8,4
+GTM,Guatemala,LAC,Less Developed,6,5,6,6,4
+IND,India,SA,Less Developed,6,6,6,7,4
+MWI,Malawi,SSA,Least Developed,6,6,5,6,2
+NPL,Nepal,SA,Least Developed,6,5,7,6,5
+MMR,Myanmar,EAP,Least Developed,6,5,7,7,3
+KHM,Cambodia,EAP,Least Developed,6,7,5,7,3
+BGD,Bangladesh,SA,Least Developed,6,8,5,6,6
+RWA,Rwanda,SSA,Least Developed,6,7,4,6,4
+ZWE,Zimbabwe,SSA,Less Developed,5,5,4,5,4
+ARM,Armenia,ECA,Less Developed,5,5,4,6,3
+CHN,China,EAP,Less Developed,5,5,5,5,5
+KEN,Kenya,SSA,Less Developed,5,5,5,5,3
+NAM,Namibia,SSA,Less Developed,4,5,4,6,2
+MNG,Mongolia,EAP,Less Developed,4,5,3,3,4
+SLV,El Salvador,LAC,Less Developed,4,4,3,5,3
+GAB,Gabon,SSA,Less Developed,4,4,3,5,4
+TUR,Turkey,ECA,Less Developed,4,5,3,4,4
+TON,Tonga,EAP,Less Developed,4,4,4,4,3
+PER,Peru,LAC,Less Developed,3,3,2,2,3
+STP,Sao Tome and Principe,SSA,Least Developed,3,4,3,4,3
+TUN,Tunisia,MENA,Less Developed,3,3,3,3,3
+DOM,Dominican Republic,LAC,Less Developed,3,4,2,3,3
+COG,Congo,SSA,Less Developed,3,3,3,6,2
+PRK,Democratic People's Republic of Korea,EAP,Less Developed,3,3,3,4,3
+BIH,Bosnia and Herzegovina,ECA,More Developed,3,2,4,3,3
+MNE,Montenegro,ECA,More Developed,3,4,3,3,4
+EGY,Egypt,MENA,Less Developed,3,3,3,3,3
+OMN,Oman,MENA,Less Developed,3,3,2,3,2
+KIR,Kiribati,EAP,Least Developed,3,4,2,2,4
+LSO,Lesotho,SSA,Least Developed,3,4,2,3,3
+JOR,Jordan,MENA,Less Developed,3,3,2,2,3
+MKD,North Macedonia,ECA,More Developed,2,2,1,1,2
+BLZ,Belize,LAC,Less Developed,2,2,2,3,1
+ALB,Albania,ECA,More Developed,2,3,2,4,1
+DZA,Algeria,MENA,Less Developed,2,2,2,2,2
+COL,Colombia,LAC,Less Developed,2,2,2,2,2
+LKA,Sri Lanka,SA,Less Developed,2,2,2,2,3
+UKR,Ukraine,ECA,More Developed,2,2,2,3,1
+VNM,Viet Nam,EAP,Less Developed,2,1,2,2,1
+PHL,Philippines,EAP,Less Developed,2,3,2,2,2
+SUR,Suriname,LAC,Less Developed,2,3,2,3,2
+TJK,Tajikistan,ECA,Less Developed,2,2,2,2,2
+THA,Thailand,EAP,Less Developed,1,1,1,1,1
+TTO,Trinidad and Tobago,LAC,Less Developed,1,1,1,1,1
+MDA,Republic of Moldova,ECA,More Developed,1,1,1,0,1
+ZAF,South Africa,SSA,Less Developed,1,1,1,1,1
+SRB,Serbia,ECA,More Developed,1,1,0,1,0
+URY,Uruguay,LAC,Less Developed,1,1,1,0,1
+TKM,Turkmenistan,ECA,Less Developed,1,1,2,1,1
+PSE,State of Palestine,MENA,Less Developed,1,1,1,1,1
+CHL,Chile,LAC,Less Developed,1,2,1,1,2
+CRI,Costa Rica,LAC,Less Developed,1,1,1,1,1
+ECU,Ecuador,LAC,Less Developed,1,1,2,1,2
+SWZ,Eswatini,SSA,Less Developed,1,2,1,2,1
+GEO,Georgia,ECA,Less Developed,1,1,1,2,1
+ARG,Argentina,LAC,Less Developed,1,2,1,0,0
+BRB,Barbados,LAC,Less Developed,1,0,1,1,0
+BWA,Botswana,SSA,Less Developed,1,1,1,1,1
+PAN,Panama,LAC,Less Developed,1,1,1,1,1
+PRY,Paraguay,LAC,Less Developed,1,1,1,1,0
+MDV,Maldives,SA,Less Developed,1,1,1,1,1
+MEX,Mexico,LAC,Less Developed,1,1,1,2,1
+KGZ,Kyrgyzstan,ECA,Less Developed,1,1,1,1,1
+IDN,Indonesia,EAP,Less Developed,1,1,1,1,0
+GUY,Guyana,LAC,Less Developed,1,1,1,1,1
+KAZ,Kazakhstan,ECA,Less Developed,0,0,0,0,1
+JAM,Jamaica,LAC,Less Developed,0,1,0,1,0
+BRA,Brazil,LAC,Less Developed,0,1,0,1,0
+BLR,Belarus,ECA,More Developed,0,1,0,0,0
+LCA,Saint Lucia,LAC,Less Developed,0,0,1,0,0
